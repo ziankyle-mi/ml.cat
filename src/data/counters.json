@@ -1,0 +1,4847 @@
+{
+  "miya": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep bursts Miya before she can trigger Hidden Moonlight."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill tracks Miya even after she uses ultimate cleanse."
+      },
+      {
+        "id": "natalia",
+        "reason": "The Hunt silence prevents Miya from ulting or fighting back."
+      },
+      {
+        "id": "ling",
+        "reason": "Dives from walls with high burst before Miya reaches lifesteal range."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and Dark Night Falls blinds Miya and disables basic attack flow."
+      }
+    ],
+    "strongAgainst": [
+      "barats",
+      "hylos",
+      "uranus",
+      "belerick"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature",
+      "antique-cuirass"
+    ]
+  },
+  "balmond": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Balmond's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Balmond."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Balmond's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Balmond from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Balmond rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "saber": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Saber's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Saber with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Saber point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Saber from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Saber's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "alice": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Alice's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Alice."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Alice's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Alice from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Alice rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "nana": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Nana's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Nana's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Nana down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Nana before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Nana out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "tigreal": {
+    "counteredBy": [
+      {
+        "id": "diggie",
+        "reason": "Time Journey cleanses Tigreal Implosion pull and shields entire team."
+      },
+      {
+        "id": "wanwan",
+        "reason": "Needles in Flowers cleanses Sacred Hammer and easily kites Tigreal."
+      },
+      {
+        "id": "valir",
+        "reason": "Searing Torrent pushes Tigreal away before Implosion channel completes."
+      },
+      {
+        "id": "akai",
+        "reason": "Heavy Spin knocks Tigreal out of Implosion animation."
+      },
+      {
+        "id": "claude",
+        "reason": "Blazing Duet with Dexter blink escapes Tigreal crowd control easily."
+      }
+    ],
+    "strongAgainst": [
+      "miya",
+      "layla",
+      "alucard",
+      "zilong",
+      "hanabi"
+    ],
+    "counterItems": [
+      "demon-hunter-sword",
+      "malefic-roar",
+      "sea-halberd",
+      "dominance-ice"
+    ]
+  },
+  "alucard": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Alucard's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Alucard with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Alucard point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Alucard from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Alucard's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "karina": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Karina's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Karina with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Karina point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Karina from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Karina's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown",
+      "athenas-shield"
+    ]
+  },
+  "akai": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Akai's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Akai."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Akai's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Akai from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Akai rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "franco": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Franco's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Franco."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Franco's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Franco from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Franco rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "bane": {
+    "counteredBy": [
+      {
+        "id": "valir",
+        "reason": "Continuous fireball knockbacks prevent Bane from closing into melee."
+      },
+      {
+        "id": "baxia",
+        "reason": "Innate anti-heal cuts Bane's spell vamp and recovery in duels."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "75% physical armor shred overpowers Bane in lane trades."
+      },
+      {
+        "id": "karrie",
+        "reason": "True damage melts Bane when building hybrid defensive items."
+      },
+      {
+        "id": "claude",
+        "reason": "Fast Dexter kiting out-ranges Bane's melee capabilities."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "eudora"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "bruno": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Bruno before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Bruno with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Bruno."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Bruno under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Bruno, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "clint": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Clint before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Clint with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Clint."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Clint under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Clint, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "rafaela": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Rafaela's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Rafaela."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Rafaela's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Rafaela from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Rafaela rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "eudora": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian Reflection blocks Eudora Forked Lightning and Ball Lightning stun."
+      },
+      {
+        "id": "saber",
+        "reason": "Outranges Eudora bush camp by locking her first with Triple Sweep."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose immunities absorb Eudora Thunderstruck combo."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill untargetable state dodges Eudora fatal burst."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence prevents Eudora from casting stun combo from bush."
+      }
+    ],
+    "strongAgainst": [
+      "miya",
+      "layla",
+      "hanabi",
+      "alucard",
+      "zilong"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "winter-crown",
+      "radiant-armor",
+      "rose-gold-meteor"
+    ]
+  },
+  "zilong": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Zilong's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Zilong with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Zilong point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Zilong from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Zilong's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "fanny": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball completely cancels Steel Cable dashes and knocks Fanny down."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppresses Fanny mid-flight with zero reaction time."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppression stops cable momentum instantly inside teamfights."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a golden domain that disables all Steel Cable dashes."
+      },
+      {
+        "id": "saber",
+        "reason": "Triple Sweep locks Fanny in place before she can complete wall-cut loops."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown",
+      "blade-armor"
+    ]
+  },
+  "layla": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep instant gap-close and airborne deletes Layla instantly."
+      },
+      {
+        "id": "fanny",
+        "reason": "Wall cables reach Layla behind turret line and burst her down."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility bypasses frontline tanks to assassinate Layla in backline."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Layla with zero chance of escape."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Puncture chains gap-close across minions to execute Layla."
+      }
+    ],
+    "strongAgainst": [
+      "barats",
+      "hylos",
+      "terizla",
+      "belerick"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature",
+      "antique-cuirass"
+    ]
+  },
+  "minotaur": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Minotaur's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Minotaur."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Minotaur's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Minotaur from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Minotaur rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "lolita": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Lolita's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Lolita."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Lolita's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Lolita from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Lolita rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "hayabusa": {
+    "counteredBy": [
+      {
+        "id": "kaja",
+        "reason": "Suppression catches Hayabusa between quad shadows before Shadow Kill triggers."
+      },
+      {
+        "id": "franco",
+        "reason": "Point-blank suppression completely locks Hayabusa out of shadow escapes."
+      },
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball blocks Quad Shadow dashes and ruins dive angles."
+      },
+      {
+        "id": "ruby",
+        "reason": "Continuous AoE stuns interrupt Hayabusa before he can re-enter shadows."
+      },
+      {
+        "id": "saber",
+        "reason": "Instantly locks Hayabusa with Triple Sweep as soon as he dives."
+      }
+    ],
+    "strongAgainst": [
+      "gord",
+      "eudora",
+      "layla",
+      "xavier",
+      "pharsa"
+    ],
+    "counterItems": [
+      "wind-of-nature",
+      "winter-crown",
+      "antique-cuirass",
+      "blade-armor"
+    ]
+  },
+  "freya": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Freya's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Freya with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Freya point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Freya from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Freya's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "gord": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Gord's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Gord's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Gord down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Gord before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Gord out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "natalia": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Natalia's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Natalia with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Natalia point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Natalia from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Natalia's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "kagura": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Kagura's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Kagura's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Kagura down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Kagura before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Kagura out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "chou": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Chou's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Chou with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Chou point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Chou from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Chou's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "sun": {
+    "counteredBy": [
+      {
+        "id": "valir",
+        "reason": "Continuous fireball knockbacks prevent Sun from closing into melee."
+      },
+      {
+        "id": "baxia",
+        "reason": "Innate anti-heal cuts Sun's spell vamp and recovery in duels."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "75% physical armor shred overpowers Sun in lane trades."
+      },
+      {
+        "id": "karrie",
+        "reason": "True damage melts Sun when building hybrid defensive items."
+      },
+      {
+        "id": "claude",
+        "reason": "Fast Dexter kiting out-ranges Sun's melee capabilities."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "eudora"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "alpha": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Alpha's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Alpha with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Alpha point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Alpha from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Alpha's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "ruby": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Ruby's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Ruby."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Ruby's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Ruby from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Ruby rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "yi-sun-shin": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Yi Sun-shin's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Yi Sun-shin with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Yi Sun-shin point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Yi Sun-shin from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Yi Sun-shin's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "moskov": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Moskov's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Moskov with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Moskov point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Moskov from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Moskov's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature",
+      "antique-cuirass"
+    ]
+  },
+  "johnson": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Johnson's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Johnson."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Johnson's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Johnson from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Johnson rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "cyclops": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Cyclops's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Cyclops's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Cyclops down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Cyclops before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Cyclops out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "estes": {
+    "counteredBy": [
+      {
+        "id": "baxia",
+        "reason": "Baxia Mark halves Moonlight Immersion healing output across teamfights."
+      },
+      {
+        "id": "luo-yi",
+        "reason": "Yin-yang geometric AoE deals massive splash damage to clustered Estes deathballs."
+      },
+      {
+        "id": "karrie",
+        "reason": "True damage melts the frontline heroes Estes attempts to tether heal."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Armor shred and burst eliminates Estes before healing ticks complete."
+      },
+      {
+        "id": "akai",
+        "reason": "Heavy Spin disperses Estes deathball formation and scatters teammates."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "barats",
+      "uranus",
+      "hilda"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "hilda": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Hilda's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Hilda."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Hilda's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Hilda from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Hilda rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "aurora": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Aurora's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Aurora's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Aurora down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Aurora before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Aurora out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "lapu-lapu": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Lapu-Lapu's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Lapu-Lapu with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Lapu-Lapu point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Lapu-Lapu from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Lapu-Lapu's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "vexana": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Vexana's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Vexana's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Vexana down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Vexana before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Vexana out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "roger": {
+    "counteredBy": [
+      {
+        "id": "valir",
+        "reason": "Continuous fireball knockbacks prevent Roger from closing into melee."
+      },
+      {
+        "id": "baxia",
+        "reason": "Innate anti-heal cuts Roger's spell vamp and recovery in duels."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "75% physical armor shred overpowers Roger in lane trades."
+      },
+      {
+        "id": "karrie",
+        "reason": "True damage melts Roger when building hybrid defensive items."
+      },
+      {
+        "id": "claude",
+        "reason": "Fast Dexter kiting out-ranges Roger's melee capabilities."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "eudora"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "karrie": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Karrie before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Karrie with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Karrie."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Karrie under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Karrie, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "gatotkaca": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Gatotkaca's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Gatotkaca."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Gatotkaca's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Gatotkaca from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Gatotkaca rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "harley": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Harley's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Harley with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Harley point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Harley from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Harley's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "irithel": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Irithel before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Irithel with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Irithel."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Irithel under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Irithel, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "grock": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Grock's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Grock."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Grock's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Grock from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Grock rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "argus": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Argus's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Argus with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Argus point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Argus from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Argus's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "odette": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Odette's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Odette's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Odette down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Odette before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Odette out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "lancelot": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Lancelot's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Lancelot with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Lancelot point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Lancelot from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Lancelot's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "diggie": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Diggie's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Diggie."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Diggie's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Diggie from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Diggie rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "hylos": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Percentage true damage completely ignores Hylos's colossal maximum HP pool."
+      },
+      {
+        "id": "claude",
+        "reason": "Demon Hunter Sword basic attacks melt Hylos rapidly while dodging Ring of Punishment."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "High armor shred and Burst strike breaks Hylos in early-to-mid game river fights."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous slow and knockback neutralizes Glorious Pathway movement acceleration."
+      },
+      {
+        "id": "baxia",
+        "reason": "Innate anti-heal severely curbs Hylos revitalizing regen."
+      }
+    ],
+    "strongAgainst": [
+      "suyou",
+      "ling",
+      "nolan",
+      "hayabusa",
+      "saber"
+    ],
+    "counterItems": [
+      "demon-hunter-sword",
+      "sea-halberd",
+      "dominance-ice",
+      "malefic-roar"
+    ]
+  },
+  "zhask": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Zhask's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Zhask with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Zhask point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Zhask from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Zhask's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown",
+      "athenas-shield"
+    ]
+  },
+  "helcurt": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Helcurt's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Helcurt with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Helcurt point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Helcurt from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Helcurt's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "pharsa": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Pharsa's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Pharsa's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Pharsa down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Pharsa before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Pharsa out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "lesley": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Lesley's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Lesley with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Lesley point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Lesley from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Lesley's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "jawhead": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Jawhead's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Jawhead with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Jawhead point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Jawhead from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Jawhead's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "angela": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Angela's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Angela."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Angela's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Angela from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Angela rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "gusion": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Gusion's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Gusion with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Gusion point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Gusion from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Gusion's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown",
+      "athenas-shield"
+    ]
+  },
+  "valir": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Valir's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Valir's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Valir down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Valir before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Valir out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "martis": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Martis's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Martis with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Martis point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Martis from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Martis's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "uranus": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Uranus's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Uranus."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Uranus's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Uranus from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Uranus rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "hanabi": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Hanabi before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Hanabi with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Hanabi."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Hanabi under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Hanabi, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "chang-e": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Chang'e's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Chang'e's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Chang'e down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Chang'e before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Chang'e out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "kaja": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Kaja's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Kaja."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Kaja's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Kaja from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Kaja rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "selena": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Selena's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Selena with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Selena point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Selena from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Selena's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "aldous": {
+    "counteredBy": [
+      {
+        "id": "valir",
+        "reason": "Continuous fireball knockbacks prevent Aldous from closing into melee."
+      },
+      {
+        "id": "baxia",
+        "reason": "Innate anti-heal cuts Aldous's spell vamp and recovery in duels."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "75% physical armor shred overpowers Aldous in lane trades."
+      },
+      {
+        "id": "karrie",
+        "reason": "True damage melts Aldous when building hybrid defensive items."
+      },
+      {
+        "id": "claude",
+        "reason": "Fast Dexter kiting out-ranges Aldous's melee capabilities."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "eudora"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "claude": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Claude's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Claude with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Claude point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Claude from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Claude's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature",
+      "antique-cuirass"
+    ]
+  },
+  "vale": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Vale's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Vale's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Vale down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Vale before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Vale out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "leomord": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Leomord's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Leomord with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Leomord point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Leomord from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Leomord's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "lunox": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Lunox's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Lunox's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Lunox down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Lunox before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Lunox out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "hanzo": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Hanzo's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Hanzo with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Hanzo point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Hanzo from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Hanzo's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "belerick": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Belerick's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Belerick."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Belerick's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Belerick from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Belerick rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "kimmy": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Kimmy's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Kimmy's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Kimmy down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Kimmy before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Kimmy out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "thamuz": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Thamuz's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Thamuz with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Thamuz point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Thamuz from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Thamuz's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "harith": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Harith's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Harith with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Harith point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Harith from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Harith's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown",
+      "athenas-shield"
+    ]
+  },
+  "minsitthar": {
+    "counteredBy": [
+      {
+        "id": "valir",
+        "reason": "Continuous fireball knockbacks prevent Minsitthar from closing into melee."
+      },
+      {
+        "id": "baxia",
+        "reason": "Innate anti-heal cuts Minsitthar's spell vamp and recovery in duels."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "75% physical armor shred overpowers Minsitthar in lane trades."
+      },
+      {
+        "id": "karrie",
+        "reason": "True damage melts Minsitthar when building hybrid defensive items."
+      },
+      {
+        "id": "claude",
+        "reason": "Fast Dexter kiting out-ranges Minsitthar's melee capabilities."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "eudora"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "kadita": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Kadita's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Kadita with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Kadita point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Kadita from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Kadita's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "faramis": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Faramis's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Faramis with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Faramis point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Faramis from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Faramis's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown",
+      "athenas-shield"
+    ]
+  },
+  "badang": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Badang's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Badang with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Badang point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Badang from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Badang's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "khufra": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Khufra's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Khufra."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Khufra's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Khufra from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Khufra rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "granger": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Granger before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Granger with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Granger."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Granger under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Granger, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "guinevere": {
+    "counteredBy": [
+      {
+        "id": "valir",
+        "reason": "Continuous fireball knockbacks prevent Guinevere from closing into melee."
+      },
+      {
+        "id": "baxia",
+        "reason": "Innate anti-heal cuts Guinevere's spell vamp and recovery in duels."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "75% physical armor shred overpowers Guinevere in lane trades."
+      },
+      {
+        "id": "karrie",
+        "reason": "True damage melts Guinevere when building hybrid defensive items."
+      },
+      {
+        "id": "claude",
+        "reason": "Fast Dexter kiting out-ranges Guinevere's melee capabilities."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "eudora"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "esmeralda": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Esmeralda's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Esmeralda."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Esmeralda's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Esmeralda from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Esmeralda rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "terizla": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Terizla's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Terizla."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Terizla's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Terizla from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Terizla rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "x-borg": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses X.Borg's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts X.Borg."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of X.Borg's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent X.Borg from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts X.Borg rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "ling": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball interrupts Finch Poise leaps and grounds Ling during Tempest of Blades."
+      },
+      {
+        "id": "kaja",
+        "reason": "Suppression grabs Ling immediately when he descends from walls."
+      },
+      {
+        "id": "ruby",
+        "reason": "Be good! and Don't run, Wolf King! pull Ling and cancel his blade collection."
+      },
+      {
+        "id": "franco",
+        "reason": "Iron Hook pulls Ling off walls, and Bloody Hunt suppresses him instantly."
+      },
+      {
+        "id": "phoveus",
+        "reason": "Astaros smashes trigger repeatedly each time Ling jumps between walls."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "eudora",
+      "hanabi",
+      "novaria",
+      "pharsa"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown",
+      "blade-armor"
+    ]
+  },
+  "dyrroth": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Dyrroth's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Dyrroth with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Dyrroth point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Dyrroth from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Dyrroth's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "lylia": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Lylia's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Lylia's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Lylia down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Lylia before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Lylia out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "baxia": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Baxia's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Baxia."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Baxia's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Baxia from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Baxia rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "masha": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Masha's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Masha."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Masha's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Masha from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Masha rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "wanwan": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Wanwan before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Wanwan with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Wanwan."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Wanwan under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Wanwan, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "silvanna": {
+    "counteredBy": [
+      {
+        "id": "valir",
+        "reason": "Continuous fireball knockbacks prevent Silvanna from closing into melee."
+      },
+      {
+        "id": "baxia",
+        "reason": "Innate anti-heal cuts Silvanna's spell vamp and recovery in duels."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "75% physical armor shred overpowers Silvanna in lane trades."
+      },
+      {
+        "id": "karrie",
+        "reason": "True damage melts Silvanna when building hybrid defensive items."
+      },
+      {
+        "id": "claude",
+        "reason": "Fast Dexter kiting out-ranges Silvanna's melee capabilities."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "eudora"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "cecilion": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Cecilion's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Cecilion's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Cecilion down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Cecilion before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Cecilion out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "carmilla": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Carmilla's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Carmilla."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Carmilla's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Carmilla from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Carmilla rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "atlas": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Atlas's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Atlas."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Atlas's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Atlas from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Atlas rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "popol-and-kupa": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Popol and Kupa before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Popol and Kupa with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Popol and Kupa."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Popol and Kupa under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Popol and Kupa, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "yu-zhong": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Yu Zhong's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Yu Zhong."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Yu Zhong's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Yu Zhong from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Yu Zhong rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "luo-yi": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Luo Yi's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Luo Yi's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Luo Yi down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Luo Yi before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Luo Yi out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "benedetta": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Benedetta's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Benedetta with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Benedetta point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Benedetta from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Benedetta's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "khaleed": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Khaleed's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Khaleed."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Khaleed's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Khaleed from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Khaleed rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "barats": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark true damage shreds Barats's massive HP and hybrid defense stacks."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step removes up to 75% of Barats's physical armor, neutralizing his bulk."
+      },
+      {
+        "id": "claude",
+        "reason": "High-mobility Dexter kiting with Demon Hunter Sword melts Barats from a safe distance."
+      },
+      {
+        "id": "valir",
+        "reason": "Burst Fireball knockback and perma-slow prevents Barats from closing gap or stacking."
+      },
+      {
+        "id": "baxia",
+        "reason": "Baxia Mark reduces Barats's passive self-healing and regeneration by 50%."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "gusion",
+      "aamon",
+      "fanny",
+      "ling"
+    ],
+    "counterItems": [
+      "demon-hunter-sword",
+      "sea-halberd",
+      "dominance-ice",
+      "malefic-roar"
+    ]
+  },
+  "brody": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Brody before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Brody with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Brody."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Brody under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Brody, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "yve": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Yve's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Yve's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Yve down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Yve before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Yve out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "mathilda": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Mathilda's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Mathilda with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Mathilda point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Mathilda from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Mathilda's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "paquito": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Paquito's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Paquito with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Paquito point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Paquito from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Paquito's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "gloo": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Gloo's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Gloo."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Gloo's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Gloo from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Gloo rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "beatrix": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Beatrix before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Beatrix with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Beatrix."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Beatrix under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Beatrix, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "phoveus": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Phoveus's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Phoveus."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Phoveus's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Phoveus from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Phoveus rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "natan": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Natan before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Natan with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Natan."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Natan under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Natan, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature",
+      "athenas-shield"
+    ]
+  },
+  "aulus": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Aulus's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Aulus with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Aulus point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Aulus from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Aulus's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "aamon": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Aamon's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Aamon with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Aamon point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Aamon from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Aamon's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown",
+      "athenas-shield"
+    ]
+  },
+  "valentina": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Valentina's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Valentina's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Valentina down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Valentina before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Valentina out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "edith": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Edith's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Edith."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Edith's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Edith from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Edith rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "floryn": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Floryn's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Floryn."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Floryn's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Floryn from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Floryn rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "yin": {
+    "counteredBy": [
+      {
+        "id": "valir",
+        "reason": "Continuous fireball knockbacks prevent Yin from closing into melee."
+      },
+      {
+        "id": "baxia",
+        "reason": "Innate anti-heal cuts Yin's spell vamp and recovery in duels."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "75% physical armor shred overpowers Yin in lane trades."
+      },
+      {
+        "id": "karrie",
+        "reason": "True damage melts Yin when building hybrid defensive items."
+      },
+      {
+        "id": "claude",
+        "reason": "Fast Dexter kiting out-ranges Yin's melee capabilities."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "eudora"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "melissa": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Melissa before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Melissa with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Melissa."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Melissa under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Melissa, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "xavier": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Xavier's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Xavier's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Xavier down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Xavier before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Xavier out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "julian": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Julian's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Julian with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Julian point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Julian from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Julian's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown",
+      "athenas-shield"
+    ]
+  },
+  "fredrinn": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Fredrinn's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Fredrinn."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Fredrinn's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Fredrinn from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Fredrinn rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "joy": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Joy's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Joy with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Joy point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Joy from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Joy's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "novaria": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Novaria's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Novaria's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Novaria down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Novaria before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Novaria out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "arlott": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Arlott's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Arlott with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Arlott point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Arlott from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Arlott's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "ixia": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Ixia before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Ixia with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Ixia."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Ixia under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Ixia, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "nolan": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Nolan's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Nolan with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Nolan point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Nolan from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Nolan's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "cici": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Cici's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Cici."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Cici's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Cici from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Cici rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "chip": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Chip's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Chip."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Chip's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Chip from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Chip rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "zhuxin": {
+    "counteredBy": [
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill untargetability dives past Crimson Beacon and executes Zhuxin."
+      },
+      {
+        "id": "ling",
+        "reason": "High-altitude mobility avoids the airborne lantern domain and dives her backline."
+      },
+      {
+        "id": "fanny",
+        "reason": "Cable velocity dashes right through Zhuxin before airborne stacks reach full."
+      },
+      {
+        "id": "saber",
+        "reason": "Triple Sweep locks Zhuxin down before she can stack displacement lantern."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Zhuxin airborne pull."
+      }
+    ],
+    "strongAgainst": [
+      "tigreal",
+      "akai",
+      "fredrinn",
+      "carmilla",
+      "barats"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown",
+      "rose-gold-meteor"
+    ]
+  },
+  "suyou": {
+    "counteredBy": [
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppression shuts down dual-form combo switching completely."
+      },
+      {
+        "id": "kaja",
+        "reason": "Suppression drags Suyou out of mortal form charge before burst executes."
+      },
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds Suyou during dash attacks and interrupts channel."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "Suppression arena forbids Suyou from utilizing dash mobility."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Armor shred overpowers Suyou in 1v1 river skirmishes."
+      }
+    ],
+    "strongAgainst": [
+      "beatrix",
+      "novaria",
+      "pharsa",
+      "claude",
+      "miya"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown",
+      "blade-armor"
+    ]
+  },
+  "lukas": {
+    "counteredBy": [
+      {
+        "id": "baxia",
+        "reason": "Baxia Mark cuts Lukas Sacred Beast life regen and sustain by 50%."
+      },
+      {
+        "id": "karrie",
+        "reason": "True damage melts Lukas transformed beast armor and massive HP."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Armor break crushes Lukas before full energy transformation."
+      },
+      {
+        "id": "valir",
+        "reason": "Fireball knockback and stun keeps transformed Lukas at arm length."
+      },
+      {
+        "id": "kaja",
+        "reason": "Suppression locks Lukas down during ultimate activation."
+      }
+    ],
+    "strongAgainst": [
+      "miya",
+      "layla",
+      "hanabi",
+      "zilong",
+      "alucard"
+    ],
+    "counterItems": [
+      "sea-halberd",
+      "dominance-ice",
+      "demon-hunter-sword",
+      "malefic-roar"
+    ]
+  },
+  "kalea": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Kalea's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Kalea."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Kalea's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Kalea from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Kalea rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "zetian": {
+    "counteredBy": [
+      {
+        "id": "lolita",
+        "reason": "Guardian's Bulwark blocks Zetian's projectile spells and skill shots."
+      },
+      {
+        "id": "lancelot",
+        "reason": "Thorned Rose invulnerability frames dodge Zetian's burst combos."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives past frontlines to burst Zetian down."
+      },
+      {
+        "id": "saber",
+        "reason": "Instant Triple Sweep airborne locks Zetian before spells cast."
+      },
+      {
+        "id": "chou",
+        "reason": "Shunpo immune dash and Way of Dragon kicks Zetian out of position."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "alucard",
+      "zilong",
+      "sun"
+    ],
+    "counterItems": [
+      "athenas-shield",
+      "radiant-armor",
+      "winter-crown"
+    ]
+  },
+  "obsidia": {
+    "counteredBy": [
+      {
+        "id": "saber",
+        "reason": "Triple Sweep airborne lock deletes Obsidia before basic attacks start."
+      },
+      {
+        "id": "hayabusa",
+        "reason": "Shadow Kill dives Obsidia with untargetable burst execution."
+      },
+      {
+        "id": "ling",
+        "reason": "Wall mobility allows Ling to jump frontline tanks and assassinate Obsidia."
+      },
+      {
+        "id": "fanny",
+        "reason": "High-speed cable rotations dive Obsidia under turret."
+      },
+      {
+        "id": "helcurt",
+        "reason": "Silence and darkness blind Obsidia, disabling counter-fire."
+      }
+    ],
+    "strongAgainst": [
+      "balmond",
+      "terizla",
+      "uranus",
+      "belerick",
+      "hilda"
+    ],
+    "counterItems": [
+      "blade-armor",
+      "dominance-ice",
+      "wind-of-nature"
+    ]
+  },
+  "sora": {
+    "counteredBy": [
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds and interrupts Sora's dashes and dives."
+      },
+      {
+        "id": "kaja",
+        "reason": "Divine Judgement suppression disables Sora with zero counterplay."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt suppresses Sora point-blank to halt dive combos."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "King's Calling creates a domain that forbids Sora from dashing."
+      },
+      {
+        "id": "ruby",
+        "reason": "Chained micro-stuns disrupt Sora's combo rotations."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "hanabi",
+      "gord",
+      "xavier"
+    ],
+    "counterItems": [
+      "antique-cuirass",
+      "wind-of-nature",
+      "winter-crown"
+    ]
+  },
+  "marcel": {
+    "counteredBy": [
+      {
+        "id": "karrie",
+        "reason": "Lightwheel Mark percentage true damage bypasses Marcel's high defense and HP."
+      },
+      {
+        "id": "claude",
+        "reason": "Agile Dexter basic attack kiting with Demon Hunter Sword melts Marcel."
+      },
+      {
+        "id": "dyrroth",
+        "reason": "Spectre Step strips up to 75% of Marcel's physical defense in duel."
+      },
+      {
+        "id": "valir",
+        "reason": "Continuous knockback and fireball slows prevent Marcel from engaging."
+      },
+      {
+        "id": "lunox",
+        "reason": "Chaos Assault percentage magic penetration melts Marcel rapidly."
+      }
+    ],
+    "strongAgainst": [
+      "saber",
+      "aamon",
+      "gusion",
+      "karina",
+      "zilong"
+    ],
+    "counterItems": [
+      "dominance-ice",
+      "sea-halberd",
+      "glowing-wand",
+      "demon-hunter-sword"
+    ]
+  },
+  "hirara": {
+    "counteredBy": [
+      {
+        "id": "kaja",
+        "reason": "Suppression halts Hirara elusive multi-dash chain instantly."
+      },
+      {
+        "id": "franco",
+        "reason": "Bloody Hunt stops Hirara scarlet executes before reset triggers."
+      },
+      {
+        "id": "khufra",
+        "reason": "Bouncing Ball grounds Hirara dashes and interrupts execute burst."
+      },
+      {
+        "id": "minsitthar",
+        "reason": "Spear domain completely shuts down Hirara dash mobility."
+      },
+      {
+        "id": "saber",
+        "reason": "Point-and-click Triple Sweep locks Hirara down before she can dash."
+      }
+    ],
+    "strongAgainst": [
+      "layla",
+      "miya",
+      "gord",
+      "eudora",
+      "xavier"
+    ],
+    "counterItems": [
+      "wind-of-nature",
+      "winter-crown",
+      "antique-cuirass",
+      "blade-armor"
+    ]
+  }
+}

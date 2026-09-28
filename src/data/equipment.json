@@ -1,0 +1,159 @@
+[
+  {
+    "id": "dominance-ice",
+    "name": "Dominance Ice",
+    "category": "Defense",
+    "icon": "/items/dominance-ice.webp",
+    "tagline": "Premier Anti-Heal & Attack Speed Slow",
+    "passive": "Lifebane & Arctic Cold",
+    "counterReason": "Reduces enemy HP regen & shields by 50% and reduces nearby enemy attack speed by 70%. Essential against sustain fighters and high attack-speed marksmen.",
+    "bestAgainstTags": [
+      "regen_heavy",
+      "shield_heavy",
+      "high_aspd"
+    ]
+  },
+  {
+    "id": "sea-halberd",
+    "name": "Sea Halberd",
+    "category": "Physical",
+    "icon": "/items/sea-halberd.webp",
+    "tagline": "Physical Anti-Heal & Extra HP Punish",
+    "passive": "Lifebane & Punish",
+    "counterReason": "Reduces enemy HP regen & shields by 50% on physical hit and grants up to 8% extra damage against high HP tank targets.",
+    "bestAgainstTags": [
+      "regen_heavy",
+      "tank_heavy",
+      "shield_heavy"
+    ]
+  },
+  {
+    "id": "glowing-wand",
+    "name": "Glowing Wand",
+    "category": "Magic",
+    "icon": "/items/glowing-wand.webp",
+    "tagline": "Magic Anti-Heal & Max HP Burn",
+    "passive": "Lifebane & Scorch",
+    "counterReason": "Applies 50% anti-heal reduction on magic skills and burns targets for 1.5% max HP per second. Melts high-HP tanks and sustain fighters.",
+    "bestAgainstTags": [
+      "regen_heavy",
+      "tank_heavy"
+    ]
+  },
+  {
+    "id": "demon-hunter-sword",
+    "name": "Demon Hunter Sword",
+    "category": "Physical",
+    "icon": "/items/demon-hunter-sword.webp",
+    "tagline": "Colossal HP Shredder",
+    "passive": "Devour",
+    "counterReason": "Basic attacks deal 8% of target current HP as bonus physical damage. The absolute counter to meatshield tanks like Barats, Hylos, and Belerick.",
+    "bestAgainstTags": [
+      "tank_heavy"
+    ]
+  },
+  {
+    "id": "wind-of-nature",
+    "name": "Wind of Nature",
+    "category": "Physical",
+    "icon": "/items/wind-of-nature.webp",
+    "tagline": "Physical Immunity Active",
+    "passive": "Wind Chant (Active)",
+    "counterReason": "Grants complete immunity to all physical damage for 2 seconds. Counteracts high-burst physical assassins and marksman ambushes.",
+    "bestAgainstTags": [
+      "burst_physical",
+      "heavy_dash"
+    ]
+  },
+  {
+    "id": "winter-crown",
+    "name": "Winter Crown",
+    "category": "Magic",
+    "icon": "/items/winter-crown.webp",
+    "tagline": "Invulnerability Stasis Freeze",
+    "passive": "Frozen (Active)",
+    "counterReason": "Freezes hero for 2 seconds, granting total immunity to all damage and crowd control. Dodge fatal dive combos from Eudora, Hayabusa, and Aldous.",
+    "bestAgainstTags": [
+      "burst_magic",
+      "burst_physical",
+      "single_lock"
+    ]
+  },
+  {
+    "id": "athenas-shield",
+    "name": "Athena Shield",
+    "category": "Defense",
+    "icon": "/items/athenas-shield.webp",
+    "tagline": "Magic Burst Barrier",
+    "passive": "Shield",
+    "counterReason": "Reduces incoming magic damage by 25% for 3 seconds upon taking magic damage. Essential defense against one-shot combo mages.",
+    "bestAgainstTags": [
+      "burst_magic"
+    ]
+  },
+  {
+    "id": "radiant-armor",
+    "name": "Radiant Armor",
+    "category": "Defense",
+    "icon": "/items/radiant-armor.webp",
+    "tagline": "Continuous Magic Damage Negation",
+    "passive": "Holy Blessing",
+    "counterReason": "Increases magic defense each time taking magic damage, stacking up to 6 times. Drastically reduces sustained magic DPS from Chang e, Valir, and Kimmy.",
+    "bestAgainstTags": [
+      "magic_dps",
+      "poke_magic"
+    ]
+  },
+  {
+    "id": "antique-cuirass",
+    "name": "Antique Cuirass",
+    "category": "Defense",
+    "icon": "/items/antique-cuirass.webp",
+    "tagline": "Skill-Based Physical Damage Dampener",
+    "passive": "Deter",
+    "counterReason": "Reduces the attacker Physical Attack by 6% when hit by a skill, stacking up to 18%. Heavy counter to skill casters like Fanny, Paquito, and Terizla.",
+    "bestAgainstTags": [
+      "skill_physical",
+      "heavy_dash"
+    ]
+  },
+  {
+    "id": "blade-armor",
+    "name": "Blade Armor",
+    "category": "Defense",
+    "icon": "/items/blade-armor.webp",
+    "tagline": "Crit Reduction & Damage Reflection",
+    "passive": "Bladed Armor",
+    "counterReason": "Reflects 20% of basic attack damage back to the attacker and reduces critical damage taken by 20%. The hard counter to basic-attack crit marksmen.",
+    "bestAgainstTags": [
+      "high_aspd",
+      "crit_physical"
+    ]
+  },
+  {
+    "id": "malefic-roar",
+    "name": "Malefic Roar",
+    "category": "Physical",
+    "icon": "/items/malefic-roar.webp",
+    "tagline": "Heavy Armor Penetration Buster",
+    "passive": "Armor Buster",
+    "counterReason": "Grants high physical penetration that scales higher the more physical defense the enemy builds (up to 40% bonus penetration).",
+    "bestAgainstTags": [
+      "tank_heavy",
+      "armor_stack"
+    ]
+  },
+  {
+    "id": "divine-glaive",
+    "name": "Divine Glaive",
+    "category": "Magic",
+    "icon": "/items/divine-glaive.webp",
+    "tagline": "Magic Resistance Piercer",
+    "passive": "Spellbreaker",
+    "counterReason": "Grants magic penetration scaling with the enemy Magic Defense. Essential for mages against tanks building Athena Shield or Radiant Armor.",
+    "bestAgainstTags": [
+      "tank_heavy",
+      "magic_resist_stack"
+    ]
+  }
+]

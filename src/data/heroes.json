@@ -1,0 +1,2335 @@
+[
+  {
+    "id": "miya",
+    "name": "Miya",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "kiting"
+    ],
+    "counterTags": [
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/miya.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero011-icon.png"
+  },
+  {
+    "id": "balmond",
+    "name": "Balmond",
+    "role": "Fighter",
+    "primaryLane": "Jungle",
+    "secondaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/balmond.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero021-icon.png"
+  },
+  {
+    "id": "saber",
+    "name": "Saber",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "secondaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/saber.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero031-icon.png"
+  },
+  {
+    "id": "alice",
+    "name": "Alice",
+    "role": "Tank",
+    "primaryLane": "EXP",
+    "secondaryLane": "Jungle",
+    "damageType": "Magic",
+    "tags": [
+      "heavy_dash",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "anti_heal"
+    ],
+    "icon": "/heroes/alice.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero041-icon.png"
+  },
+  {
+    "id": "nana",
+    "name": "Nana",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/nana.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Hero051-icon.png"
+  },
+  {
+    "id": "tigreal",
+    "name": "Tigreal",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/tigreal.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero061-icon.png"
+  },
+  {
+    "id": "alucard",
+    "name": "Alucard",
+    "role": "Fighter",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/alucard.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero071-icon.png"
+  },
+  {
+    "id": "karina",
+    "name": "Karina",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "damageType": "Magic",
+    "tags": [
+      "heavy_dash",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/karina.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero081-icon.png"
+  },
+  {
+    "id": "akai",
+    "name": "Akai",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/akai.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero091-icon.png"
+  },
+  {
+    "id": "franco",
+    "name": "Franco",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy",
+      "dive"
+    ],
+    "counterTags": [
+      "anti_heal",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/franco.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero101-icon.png"
+  },
+  {
+    "id": "bane",
+    "name": "Bane",
+    "role": "Fighter",
+    "primaryLane": "Jungle",
+    "secondaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "burst"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/bane.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero111-icon.png"
+  },
+  {
+    "id": "bruno",
+    "name": "Bruno",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/bruno.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero121-icon.png"
+  },
+  {
+    "id": "clint",
+    "name": "Clint",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/clint.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero131-icon.png"
+  },
+  {
+    "id": "rafaela",
+    "name": "Rafaela",
+    "role": "Support",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/rafaela.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero141-icon.png"
+  },
+  {
+    "id": "eudora",
+    "name": "Eudora",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst",
+      "hard_cc"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/eudora.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero151-icon.png"
+  },
+  {
+    "id": "zilong",
+    "name": "Zilong",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/zilong.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero161-icon.png"
+  },
+  {
+    "id": "fanny",
+    "name": "Fanny",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/fanny.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero171-icon.png"
+  },
+  {
+    "id": "layla",
+    "name": "Layla",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "kiting"
+    ],
+    "counterTags": [
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/layla.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero181-icon.png"
+  },
+  {
+    "id": "minotaur",
+    "name": "Minotaur",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/minotaur.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero191-icon.png"
+  },
+  {
+    "id": "lolita",
+    "name": "Lolita",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/lolita.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero201-icon.png"
+  },
+  {
+    "id": "hayabusa",
+    "name": "Hayabusa",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/hayabusa.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero211-icon.png"
+  },
+  {
+    "id": "freya",
+    "name": "Freya",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "secondaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/freya.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero221-icon.png"
+  },
+  {
+    "id": "gord",
+    "name": "Gord",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/gord.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero231-icon.png"
+  },
+  {
+    "id": "natalia",
+    "name": "Natalia",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "secondaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/natalia.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero241-icon.png"
+  },
+  {
+    "id": "kagura",
+    "name": "Kagura",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "kiting"
+    ],
+    "counterTags": [
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/kagura.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero251-icon.png"
+  },
+  {
+    "id": "chou",
+    "name": "Chou",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "secondaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "hard_cc"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/chou.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero261-icon.png"
+  },
+  {
+    "id": "sun",
+    "name": "Sun",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "secondaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "burst"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/sun.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero271-icon.png"
+  },
+  {
+    "id": "alpha",
+    "name": "Alpha",
+    "role": "Fighter",
+    "primaryLane": "Jungle",
+    "secondaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/alpha.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero281-icon.png"
+  },
+  {
+    "id": "ruby",
+    "name": "Ruby",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/ruby.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero291-icon.png"
+  },
+  {
+    "id": "yi-sun-shin",
+    "name": "Yi Sun-shin",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/yi-sun-shin.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero301-icon.png"
+  },
+  {
+    "id": "moskov",
+    "name": "Moskov",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/moskov.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero311-icon.png"
+  },
+  {
+    "id": "johnson",
+    "name": "Johnson",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/johnson.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero321-icon.png"
+  },
+  {
+    "id": "cyclops",
+    "name": "Cyclops",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "hard_cc",
+      "kiting"
+    ],
+    "counterTags": [
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/cyclops.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero331-icon.png"
+  },
+  {
+    "id": "estes",
+    "name": "Estes",
+    "role": "Support",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/estes.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero341-icon.png"
+  },
+  {
+    "id": "hilda",
+    "name": "Hilda",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "secondaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/hilda.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero351-icon.png"
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "hard_cc",
+      "kiting"
+    ],
+    "counterTags": [
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/aurora.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero361-icon.png"
+  },
+  {
+    "id": "lapu-lapu",
+    "name": "Lapu-Lapu",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/lapu-lapu.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero371-icon.png"
+  },
+  {
+    "id": "vexana",
+    "name": "Vexana",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "hard_cc",
+      "kiting"
+    ],
+    "counterTags": [
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/vexana.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero381-icon.png"
+  },
+  {
+    "id": "roger",
+    "name": "Roger",
+    "role": "Fighter",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/roger.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero391-icon.png"
+  },
+  {
+    "id": "karrie",
+    "name": "Karrie",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "True",
+    "tags": [
+      "kiting"
+    ],
+    "counterTags": [
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/karrie.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero401-icon.png"
+  },
+  {
+    "id": "gatotkaca",
+    "name": "Gatotkaca",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "secondaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/gatotkaca.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero411-icon.png"
+  },
+  {
+    "id": "harley",
+    "name": "Harley",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "secondaryLane": "Mid",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/harley.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero421-icon.png"
+  },
+  {
+    "id": "irithel",
+    "name": "Irithel",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/irithel.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero431-icon.png"
+  },
+  {
+    "id": "grock",
+    "name": "Grock",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy",
+      "dive"
+    ],
+    "counterTags": [
+      "anti_heal",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/grock.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero441-icon.png"
+  },
+  {
+    "id": "argus",
+    "name": "Argus",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/argus.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero451-icon.png"
+  },
+  {
+    "id": "odette",
+    "name": "Odette",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/odette.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero461-icon.png"
+  },
+  {
+    "id": "lancelot",
+    "name": "Lancelot",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/lancelot.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero471-icon.png"
+  },
+  {
+    "id": "diggie",
+    "name": "Diggie",
+    "role": "Support",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_heal",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/diggie.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero481-icon.png"
+  },
+  {
+    "id": "hylos",
+    "name": "Hylos",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Magic",
+    "tags": [
+      "hard_cc",
+      "regen_heavy",
+      "dive"
+    ],
+    "counterTags": [
+      "anti_heal",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/hylos.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero491-icon.png"
+  },
+  {
+    "id": "zhask",
+    "name": "Zhask",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "heavy_dash"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/zhask.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero501-icon.png"
+  },
+  {
+    "id": "helcurt",
+    "name": "Helcurt",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "secondaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/helcurt.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero511-icon.png"
+  },
+  {
+    "id": "pharsa",
+    "name": "Pharsa",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/pharsa.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero521-icon.png"
+  },
+  {
+    "id": "lesley",
+    "name": "Lesley",
+    "role": "Assassin",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/lesley.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero531-icon.png"
+  },
+  {
+    "id": "jawhead",
+    "name": "Jawhead",
+    "role": "Fighter",
+    "primaryLane": "Roam",
+    "secondaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/jawhead.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero541-icon.png"
+  },
+  {
+    "id": "angela",
+    "name": "Angela",
+    "role": "Support",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/angela.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero551-icon.png"
+  },
+  {
+    "id": "gusion",
+    "name": "Gusion",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "secondaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/gusion.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero561-icon.png"
+  },
+  {
+    "id": "valir",
+    "name": "Valir",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "hard_cc"
+    ],
+    "counterTags": [
+      "hard_cc"
+    ],
+    "icon": "/heroes/valir.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero571-icon.png"
+  },
+  {
+    "id": "martis",
+    "name": "Martis",
+    "role": "Fighter",
+    "primaryLane": "Jungle",
+    "secondaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/martis.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero581-icon.png"
+  },
+  {
+    "id": "uranus",
+    "name": "Uranus",
+    "role": "Tank",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/uranus.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero591-icon.png"
+  },
+  {
+    "id": "hanabi",
+    "name": "Hanabi",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "kiting"
+    ],
+    "counterTags": [
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/hanabi.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero601-icon.png"
+  },
+  {
+    "id": "chang-e",
+    "name": "Chang'e",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/chang-e.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero611-icon.png"
+  },
+  {
+    "id": "kaja",
+    "name": "Kaja",
+    "role": "Support",
+    "primaryLane": "Roam",
+    "damageType": "Magic",
+    "tags": [
+      "heavy_dash",
+      "regen_heavy",
+      "dive"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "anti_heal",
+      "suppress"
+    ],
+    "icon": "/heroes/kaja.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero621-icon.png"
+  },
+  {
+    "id": "selena",
+    "name": "Selena",
+    "role": "Assassin",
+    "primaryLane": "Mid",
+    "secondaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "kiting",
+      "dive"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/selena.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero631-icon.png"
+  },
+  {
+    "id": "aldous",
+    "name": "Aldous",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "burst"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/aldous.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero641-icon.png"
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/claude.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero651-icon.png"
+  },
+  {
+    "id": "vale",
+    "name": "Vale",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst",
+      "hard_cc"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/vale.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero661-icon.png"
+  },
+  {
+    "id": "leomord",
+    "name": "Leomord",
+    "role": "Fighter",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/leomord.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero671-icon.png"
+  },
+  {
+    "id": "lunox",
+    "name": "Lunox",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/lunox.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero681-icon.png"
+  },
+  {
+    "id": "hanzo",
+    "name": "Hanzo",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/hanzo.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero691-icon.png"
+  },
+  {
+    "id": "belerick",
+    "name": "Belerick",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/belerick.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero701-icon.png"
+  },
+  {
+    "id": "kimmy",
+    "name": "Kimmy",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "secondaryLane": "Gold",
+    "damageType": "Magic",
+    "tags": [
+      "burst"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/kimmy.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero711-icon.png"
+  },
+  {
+    "id": "thamuz",
+    "name": "Thamuz",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/thamuz.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero721-icon.png"
+  },
+  {
+    "id": "harith",
+    "name": "Harith",
+    "role": "Mage",
+    "primaryLane": "Gold",
+    "secondaryLane": "Jungle",
+    "damageType": "Magic",
+    "tags": [
+      "heavy_dash"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/harith.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero731-icon.png"
+  },
+  {
+    "id": "minsitthar",
+    "name": "Minsitthar",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "secondaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "dive"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/minsitthar.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero741-icon.png"
+  },
+  {
+    "id": "kadita",
+    "name": "Kadita",
+    "role": "Assassin",
+    "primaryLane": "Mid",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/kadita.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero751-icon.png"
+  },
+  {
+    "id": "faramis",
+    "name": "Faramis",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "secondaryLane": "Roam",
+    "damageType": "Magic",
+    "tags": [
+      "heavy_dash",
+      "hard_cc"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/faramis.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero761-icon.png"
+  },
+  {
+    "id": "badang",
+    "name": "Badang",
+    "role": "Fighter",
+    "primaryLane": "Roam",
+    "secondaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/badang.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero771-icon.png"
+  },
+  {
+    "id": "khufra",
+    "name": "Khufra",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy",
+      "dive"
+    ],
+    "counterTags": [
+      "anti_heal",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/khufra.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero781-icon.png"
+  },
+  {
+    "id": "granger",
+    "name": "Granger",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/granger.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero791-icon.png"
+  },
+  {
+    "id": "guinevere",
+    "name": "Guinevere",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Magic",
+    "tags": [
+      "burst"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/guinevere.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero801-icon.png"
+  },
+  {
+    "id": "esmeralda",
+    "name": "Esmeralda",
+    "role": "Tank",
+    "primaryLane": "EXP",
+    "damageType": "Hybrid",
+    "tags": [
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/esmeralda.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero811-icon.png"
+  },
+  {
+    "id": "terizla",
+    "name": "Terizla",
+    "role": "Tank",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/terizla.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero821-icon.png"
+  },
+  {
+    "id": "x-borg",
+    "name": "X.Borg",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/x-borg.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero831-icon.png"
+  },
+  {
+    "id": "ling",
+    "name": "Ling",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/ling.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero841-icon.png"
+  },
+  {
+    "id": "dyrroth",
+    "name": "Dyrroth",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "secondaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/dyrroth.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero851-icon.png"
+  },
+  {
+    "id": "lylia",
+    "name": "Lylia",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/lylia.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero861-icon.png"
+  },
+  {
+    "id": "baxia",
+    "name": "Baxia",
+    "role": "Tank",
+    "primaryLane": "Jungle",
+    "secondaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/baxia.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero871-icon.png"
+  },
+  {
+    "id": "masha",
+    "name": "Masha",
+    "role": "Tank",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/masha.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero881-icon.png"
+  },
+  {
+    "id": "wanwan",
+    "name": "Wanwan",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/wanwan.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero891-icon.png"
+  },
+  {
+    "id": "silvanna",
+    "name": "Silvanna",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Magic",
+    "tags": [
+      "dive"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/silvanna.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero901-icon.png"
+  },
+  {
+    "id": "cecilion",
+    "name": "Cecilion",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/cecilion.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero911-icon.png"
+  },
+  {
+    "id": "carmilla",
+    "name": "Carmilla",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Magic",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/carmilla.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero921-icon.png"
+  },
+  {
+    "id": "atlas",
+    "name": "Atlas",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy",
+      "dive"
+    ],
+    "counterTags": [
+      "anti_heal",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/atlas.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero931-icon.png"
+  },
+  {
+    "id": "popol-and-kupa",
+    "name": "Popol and Kupa",
+    "role": "Marksman",
+    "primaryLane": "Jungle",
+    "secondaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/popol-and-kupa.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero941-icon.png"
+  },
+  {
+    "id": "yu-zhong",
+    "name": "Yu Zhong",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/yu-zhong.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero951-icon.png"
+  },
+  {
+    "id": "luo-yi",
+    "name": "Luo Yi",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "hard_cc"
+    ],
+    "counterTags": [
+      "hard_cc"
+    ],
+    "icon": "/heroes/luo-yi.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero961-icon.png"
+  },
+  {
+    "id": "benedetta",
+    "name": "Benedetta",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/benedetta.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero971-icon.png"
+  },
+  {
+    "id": "khaleed",
+    "name": "Khaleed",
+    "role": "Fighter",
+    "primaryLane": "Roam",
+    "secondaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/khaleed.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero981-icon.png"
+  },
+  {
+    "id": "barats",
+    "name": "Barats",
+    "role": "Tank",
+    "primaryLane": "EXP",
+    "secondaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/barats.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero991-icon.png"
+  },
+  {
+    "id": "brody",
+    "name": "Brody",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/brody.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1001-icon.png"
+  },
+  {
+    "id": "yve",
+    "name": "Yve",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/yve.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero1011-icon.png"
+  },
+  {
+    "id": "mathilda",
+    "name": "Mathilda",
+    "role": "Assassin",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "hard_cc",
+      "dive"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/mathilda.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero1021-icon.png"
+  },
+  {
+    "id": "paquito",
+    "name": "Paquito",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/paquito.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1031-icon.png"
+  },
+  {
+    "id": "gloo",
+    "name": "Gloo",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "secondaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/gloo.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero1041-icon.png"
+  },
+  {
+    "id": "beatrix",
+    "name": "Beatrix",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "kiting"
+    ],
+    "counterTags": [
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/beatrix.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1051-icon.png"
+  },
+  {
+    "id": "phoveus",
+    "name": "Phoveus",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/phoveus.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero1061-icon.png"
+  },
+  {
+    "id": "natan",
+    "name": "Natan",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Magic",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/natan.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1071-icon.png"
+  },
+  {
+    "id": "aulus",
+    "name": "Aulus",
+    "role": "Fighter",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/aulus.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero1081-icon.png"
+  },
+  {
+    "id": "aamon",
+    "name": "Aamon",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "damageType": "Magic",
+    "tags": [
+      "heavy_dash"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/aamon.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1091-icon.png"
+  },
+  {
+    "id": "valentina",
+    "name": "Valentina",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/valentina.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1101-icon.png"
+  },
+  {
+    "id": "edith",
+    "name": "Edith",
+    "role": "Tank",
+    "primaryLane": "EXP",
+    "secondaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/edith.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero1111-icon.png"
+  },
+  {
+    "id": "floryn",
+    "name": "Floryn",
+    "role": "Support",
+    "primaryLane": "Roam",
+    "damageType": "Magic",
+    "tags": [
+      "hard_cc",
+      "regen_heavy",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_heal",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/floryn.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero1121-icon.png"
+  },
+  {
+    "id": "yin",
+    "name": "Yin",
+    "role": "Fighter",
+    "primaryLane": "Jungle",
+    "secondaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "burst",
+      "hard_cc"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/yin.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero1131-icon.png"
+  },
+  {
+    "id": "melissa",
+    "name": "Melissa",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "kiting"
+    ],
+    "counterTags": [
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/melissa.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero1141-icon.png"
+  },
+  {
+    "id": "xavier",
+    "name": "Xavier",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "hard_cc"
+    ],
+    "counterTags": [
+      "hard_cc"
+    ],
+    "icon": "/heroes/xavier.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero1151-icon.png"
+  },
+  {
+    "id": "julian",
+    "name": "Julian",
+    "role": "Fighter",
+    "primaryLane": "Jungle",
+    "secondaryLane": "EXP",
+    "damageType": "Magic",
+    "tags": [
+      "heavy_dash"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/julian.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero1161-icon.png"
+  },
+  {
+    "id": "fredrinn",
+    "name": "Fredrinn",
+    "role": "Tank",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "anti_heal"
+    ],
+    "icon": "/heroes/fredrinn.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1171-icon.png"
+  },
+  {
+    "id": "joy",
+    "name": "Joy",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc"
+    ],
+    "icon": "/heroes/joy.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero1181-icon.png"
+  },
+  {
+    "id": "novaria",
+    "name": "Novaria",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "burst",
+      "kiting"
+    ],
+    "counterTags": [
+      "hard_cc",
+      "suppress",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/novaria.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero1191-icon.png"
+  },
+  {
+    "id": "arlott",
+    "name": "Arlott",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/arlott.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero1201-icon.png"
+  },
+  {
+    "id": "ixia",
+    "name": "Ixia",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "kiting"
+    ],
+    "counterTags": [
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/ixia.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero1211-icon.png"
+  },
+  {
+    "id": "nolan",
+    "name": "Nolan",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/nolan.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero1221-icon.png"
+  },
+  {
+    "id": "cici",
+    "name": "Cici",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/cici.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero1231-icon.png"
+  },
+  {
+    "id": "chip",
+    "name": "Chip",
+    "role": "Tank",
+    "primaryLane": "Roam",
+    "damageType": "Magic",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/chip.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1241-icon.png"
+  },
+  {
+    "id": "zhuxin",
+    "name": "Zhuxin",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "hard_cc"
+    ],
+    "counterTags": [
+      "hard_cc"
+    ],
+    "icon": "/heroes/zhuxin.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero1251-icon.png"
+  },
+  {
+    "id": "suyou",
+    "name": "Suyou",
+    "role": "Fighter",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/suyou.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero1261-icon.png"
+  },
+  {
+    "id": "lukas",
+    "name": "Lukas",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "secondaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/lukas.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1271-icon.png"
+  },
+  {
+    "id": "kalea",
+    "name": "Kalea",
+    "role": "Fighter",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/kalea.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1281-icon.png"
+  },
+  {
+    "id": "zetian",
+    "name": "Zetian",
+    "role": "Mage",
+    "primaryLane": "Mid",
+    "damageType": "Magic",
+    "tags": [
+      "hard_cc"
+    ],
+    "counterTags": [
+      "hard_cc"
+    ],
+    "icon": "/heroes/zetian.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1291-icon.png"
+  },
+  {
+    "id": "obsidia",
+    "name": "Obsidia",
+    "role": "Marksman",
+    "primaryLane": "Gold",
+    "damageType": "Physical",
+    "tags": [
+      "kiting"
+    ],
+    "counterTags": [
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/obsidia.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero1301-icon.png"
+  },
+  {
+    "id": "sora",
+    "name": "Sora",
+    "role": "Fighter",
+    "primaryLane": "EXP",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "burst"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "suppress"
+    ],
+    "icon": "/heroes/sora.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero1311-icon.png"
+  },
+  {
+    "id": "marcel",
+    "name": "Marcel",
+    "role": "Support",
+    "primaryLane": "Roam",
+    "damageType": "Physical",
+    "tags": [
+      "hard_cc",
+      "regen_heavy"
+    ],
+    "counterTags": [
+      "anti_heal"
+    ],
+    "icon": "/heroes/marcel.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero1321-icon.png"
+  },
+  {
+    "id": "hirara",
+    "name": "Hirara",
+    "role": "Assassin",
+    "primaryLane": "Jungle",
+    "damageType": "Physical",
+    "tags": [
+      "heavy_dash",
+      "kiting"
+    ],
+    "counterTags": [
+      "anti_dash",
+      "hard_cc",
+      "dive",
+      "burst"
+    ],
+    "icon": "/heroes/hirara.webp",
+    "sourceUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1331-icon.png"
+  }
+]
