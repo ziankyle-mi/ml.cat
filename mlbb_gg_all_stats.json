@@ -1,0 +1,4106 @@
+[
+  {
+    "hero_id": 1,
+    "_stat_id": 368574,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/90/conversions/105px-ML_icon_Miya_2023-avatar_webp.webp",
+    "name": "Miya",
+    "tier": "A",
+    "points": "2299.31",
+    "tier_color": "#E1B04B",
+    "win_rate": "49.80",
+    "ban_rate": "6.73",
+    "pick_rate": "1.91",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 1,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 1,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 2,
+    "_stat_id": 368678,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/14/conversions/105px-ML_icon_Balmond-avatar_webp.webp",
+    "name": "Balmond",
+    "tier": "D",
+    "points": "789.25",
+    "tier_color": "#B87333",
+    "win_rate": "44.95",
+    "ban_rate": "0.16",
+    "pick_rate": "0.33",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 2,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 2,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 3,
+    "_stat_id": 368586,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/105/conversions/105px-ML_icon_Saber_2020-avatar_webp.webp",
+    "name": "Saber",
+    "tier": "A",
+    "points": "2091.39",
+    "tier_color": "#E1B04B",
+    "win_rate": "51.01",
+    "ban_rate": "9.74",
+    "pick_rate": "0.53",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 3,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 3,
+        "name": "Charge",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 4,
+    "_stat_id": 368596,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1267/conversions/01K5C93YN7S132C3BYSA5WS29R-avatar_webp.webp",
+    "name": "Alice",
+    "tier": "A",
+    "points": "1969.83",
+    "tier_color": "#E1B04B",
+    "win_rate": "50.82",
+    "ban_rate": "2.72",
+    "pick_rate": "0.97",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 4,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      },
+      {
+        "id": 5,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 4,
+        "name": "Charge",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 5,
+        "name": "Regen",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 5,
+    "_stat_id": 368659,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/92/conversions/105px-ML_icon_Nana-avatar_webp.webp",
+    "name": "Nana",
+    "tier": "D",
+    "points": "1147.57",
+    "tier_color": "#B87333",
+    "win_rate": "44.59",
+    "ban_rate": "1.07",
+    "pick_rate": "1.39",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 6,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 6,
+        "name": "Poke",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 6,
+    "_stat_id": 368676,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/112/conversions/105px-ML_icon_Tigreal-avatar_webp.webp",
+    "name": "Tigreal",
+    "tier": "D",
+    "points": "847.28",
+    "tier_color": "#B87333",
+    "win_rate": "41.73",
+    "ban_rate": "3.50",
+    "pick_rate": "1.48",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 7,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 7,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 7,
+    "_stat_id": 368653,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/6/conversions/105px-ML_icon_Alucard-avatar_webp.webp",
+    "name": "Alucard",
+    "tier": "C",
+    "points": "1234.93",
+    "tier_color": "#5A5E63",
+    "win_rate": "47.90",
+    "ban_rate": "0.13",
+    "pick_rate": "0.37",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 8,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 9,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 8,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      },
+      {
+        "id": 9,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 8,
+    "_stat_id": 368657,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/68/conversions/105px-ML_icon_Karina_2021-avatar_webp.webp",
+    "name": "Karina",
+    "tier": "D",
+    "points": "1160.86",
+    "tier_color": "#B87333",
+    "win_rate": "46.23",
+    "ban_rate": "1.71",
+    "pick_rate": "0.69",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 10,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 10,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 9,
+    "_stat_id": 368643,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/2/conversions/105px-ML_icon_Akai_2022-avatar_webp.webp",
+    "name": "Akai",
+    "tier": "C",
+    "points": "1371.46",
+    "tier_color": "#5A5E63",
+    "win_rate": "48.59",
+    "ban_rate": "1.22",
+    "pick_rate": "0.36",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 11,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 11,
+        "name": "Guard",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 10,
+    "_stat_id": 368684,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/41/conversions/105px-ML_icon_Franco-avatar_webp.webp",
+    "name": "Franco",
+    "tier": "D",
+    "points": "276.47",
+    "tier_color": "#B87333",
+    "win_rate": "40.28",
+    "ban_rate": "2.27",
+    "pick_rate": "0.60",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 12,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 12,
+        "name": "Initiator",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 11,
+    "_stat_id": 368620,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/15/conversions/105px-ML_icon_Bane_2021-avatar_webp.webp",
+    "name": "Bane",
+    "tier": "B",
+    "points": "1577.49",
+    "tier_color": "#9E9E9E",
+    "win_rate": "50.59",
+    "ban_rate": "0.08",
+    "pick_rate": "0.23",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 13,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 14,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 13,
+        "name": "Push",
+        "color": "oklch(0.627 0.265 303.9)"
+      },
+      {
+        "id": 14,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 12,
+    "_stat_id": 368577,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1482/conversions/100_2a733ac5b7d1f97093e82940af6f5008-avatar_webp.webp",
+    "name": "Bruno",
+    "tier": "A",
+    "points": "2240.81",
+    "tier_color": "#E1B04B",
+    "win_rate": "53.48",
+    "ban_rate": "0.69",
+    "pick_rate": "0.84",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 15,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 15,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 13,
+    "_stat_id": 368588,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1480/conversions/100_fd120c3e9261a233442ee88a1d7c9f58-avatar_webp.webp",
+    "name": "Clint",
+    "tier": "A",
+    "points": "2067.61",
+    "tier_color": "#E1B04B",
+    "win_rate": "51.86",
+    "ban_rate": "0.79",
+    "pick_rate": "1.01",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 16,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 16,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 14,
+    "_stat_id": 368558,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/102/conversions/105px-ML_icon_Rafaela-avatar_webp.webp",
+    "name": "Rafaela",
+    "tier": "SS",
+    "points": "4286.25",
+    "tier_color": "#FFAE34FC",
+    "win_rate": "59.38",
+    "ban_rate": "26.93",
+    "pick_rate": "1.52",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 17,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 17,
+        "name": "Regen",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 15,
+    "_stat_id": 368554,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1470/conversions/01KTXWXC6FHS32340N4B251VQR-avatar_webp.webp",
+    "name": "Eudora",
+    "tier": "SS",
+    "points": "4748.31",
+    "tier_color": "#FFAE34FC",
+    "win_rate": "51.69",
+    "ban_rate": "68.01",
+    "pick_rate": "1.86",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 18,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 18,
+        "name": "Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 16,
+    "_stat_id": 368682,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/127/conversions/105px-ML_icon_Zilong_2024-avatar_webp.webp",
+    "name": "Zilong",
+    "tier": "D",
+    "points": "484.85",
+    "tier_color": "#B87333",
+    "win_rate": "43.20",
+    "ban_rate": "0.22",
+    "pick_rate": "0.19",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 19,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 20,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 19,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      },
+      {
+        "id": 20,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 17,
+    "_stat_id": 368681,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/38/conversions/105px-ML_icon_Fanny-avatar_webp.webp",
+    "name": "Fanny",
+    "tier": "D",
+    "points": "586.29",
+    "tier_color": "#B87333",
+    "win_rate": "42.24",
+    "ban_rate": "1.70",
+    "pick_rate": "0.72",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 21,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 21,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 18,
+    "_stat_id": 368658,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/75/conversions/105px-ML_icon_Layla_2023-avatar_webp.webp",
+    "name": "Layla",
+    "tier": "D",
+    "points": "1155.70",
+    "tier_color": "#B87333",
+    "win_rate": "47.15",
+    "ban_rate": "0.39",
+    "pick_rate": "0.43",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 22,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 22,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 19,
+    "_stat_id": 368566,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/88/conversions/105px-ML_icon_Minotaur_2021-avatar_webp.webp",
+    "name": "Minotaur",
+    "tier": "S",
+    "points": "3067.53",
+    "tier_color": "#B03E3E",
+    "win_rate": "54.65",
+    "ban_rate": "11.03",
+    "pick_rate": "1.64",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 23,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 24,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 23,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 20,
+    "_stat_id": 368603,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/79/conversions/105px-ML_icon_Lolita_2023-avatar_webp.webp",
+    "name": "Lolita",
+    "tier": "A",
+    "points": "1813.75",
+    "tier_color": "#E1B04B",
+    "win_rate": "52.55",
+    "ban_rate": "0.15",
+    "pick_rate": "0.08",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 25,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 26,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 24,
+        "name": "Guard",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 25,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 21,
+    "_stat_id": 368637,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/55/conversions/105px-ML_icon_Hayabusa_2021-avatar_webp.webp",
+    "name": "Hayabusa",
+    "tier": "B",
+    "points": "1405.66",
+    "tier_color": "#9E9E9E",
+    "win_rate": "47.90",
+    "ban_rate": "0.91",
+    "pick_rate": "0.77",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 27,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 26,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 22,
+    "_stat_id": 368625,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/43/conversions/105px-ML_icon_Freya-avatar_webp.webp",
+    "name": "Freya",
+    "tier": "B",
+    "points": "1505.41",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.46",
+    "ban_rate": "0.60",
+    "pick_rate": "0.44",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 28,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 27,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 23,
+    "_stat_id": 368582,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/46/conversions/105px-ML_icon_Gord-avatar_webp.webp",
+    "name": "Gord",
+    "tier": "A",
+    "points": "2136.68",
+    "tier_color": "#E1B04B",
+    "win_rate": "53.62",
+    "ban_rate": "0.20",
+    "pick_rate": "0.54",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 29,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 28,
+        "name": "Poke",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 24,
+    "_stat_id": 368618,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/93/conversions/105px-ML_icon_Natalia-avatar_webp.webp",
+    "name": "Natalia",
+    "tier": "B",
+    "points": "1621.55",
+    "tier_color": "#9E9E9E",
+    "win_rate": "50.91",
+    "ban_rate": "0.70",
+    "pick_rate": "0.16",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 30,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 29,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 25,
+    "_stat_id": 368590,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/66/conversions/105px-ML_icon_Kagura_2021-avatar_webp.webp",
+    "name": "Kagura",
+    "tier": "A",
+    "points": "2028.21",
+    "tier_color": "#E1B04B",
+    "win_rate": "51.54",
+    "ban_rate": "1.40",
+    "pick_rate": "0.97",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 31,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 30,
+        "name": "Poke",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 26,
+    "_stat_id": 368670,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1262/conversions/01K3BXEQM080N070WA5GA29KHQ-avatar_webp.webp",
+    "name": "Chou",
+    "tier": "D",
+    "points": "957.81",
+    "tier_color": "#B87333",
+    "win_rate": "44.65",
+    "ban_rate": "1.81",
+    "pick_rate": "0.76",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 32,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 31,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 27,
+    "_stat_id": 368592,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/108/conversions/105px-ML_icon_Sun_2024-avatar_webp.webp",
+    "name": "Sun",
+    "tier": "A",
+    "points": "2005.22",
+    "tier_color": "#E1B04B",
+    "win_rate": "48.97",
+    "ban_rate": "11.00",
+    "pick_rate": "1.00",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 33,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 32,
+        "name": "Push",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 28,
+    "_stat_id": 368665,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/5/conversions/105px-ML_icon_Alpha_2021-avatar_webp.webp",
+    "name": "Alpha",
+    "tier": "D",
+    "points": "1034.80",
+    "tier_color": "#B87333",
+    "win_rate": "45.86",
+    "ban_rate": "0.20",
+    "pick_rate": "0.64",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 34,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 33,
+        "name": "Charge",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 29,
+    "_stat_id": 368629,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/104/conversions/105px-ML_icon_Ruby-avatar_webp.webp",
+    "name": "Ruby",
+    "tier": "B",
+    "points": "1459.94",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.05",
+    "ban_rate": "0.11",
+    "pick_rate": "0.53",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 35,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 34,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 30,
+    "_stat_id": 368569,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/121/conversions/105px-ML_icon_Yi_Sun-Shin-avatar_webp.webp",
+    "name": "Yi Sun-shin",
+    "tier": "S",
+    "points": "2537.54",
+    "tier_color": "#B03E3E",
+    "win_rate": "49.39",
+    "ban_rate": "12.68",
+    "pick_rate": "2.15",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 36,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      },
+      {
+        "id": 37,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 35,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      },
+      {
+        "id": 36,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 31,
+    "_stat_id": 368587,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/91/conversions/ML_icon_Moskov_2023-avatar_webp.webp",
+    "name": "Moskov",
+    "tier": "A",
+    "points": "2089.51",
+    "tier_color": "#E1B04B",
+    "win_rate": "51.80",
+    "ban_rate": "0.15",
+    "pick_rate": "1.16",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 38,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 37,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 32,
+    "_stat_id": 368675,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/62/conversions/105px-ML_icon_Johnson_2023-avatar_webp.webp",
+    "name": "Johnson",
+    "tier": "D",
+    "points": "856.87",
+    "tier_color": "#B87333",
+    "win_rate": "44.98",
+    "ban_rate": "0.63",
+    "pick_rate": "0.46",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 39,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 40,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 38,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 39,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 33,
+    "_stat_id": 368617,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/31/conversions/105px-ML_icon_Cyclops-avatar_webp.webp",
+    "name": "Cyclops",
+    "tier": "B",
+    "points": "1644.56",
+    "tier_color": "#9E9E9E",
+    "win_rate": "50.38",
+    "ban_rate": "0.12",
+    "pick_rate": "0.50",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 41,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 40,
+        "name": "Poke",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 34,
+    "_stat_id": 368567,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/36/conversions/105px-ML_icon_Estes-avatar_webp.webp",
+    "name": "Estes",
+    "tier": "S",
+    "points": "2789.84",
+    "tier_color": "#B03E3E",
+    "win_rate": "52.63",
+    "ban_rate": "22.14",
+    "pick_rate": "0.58",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 42,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 41,
+        "name": "Regen",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 35,
+    "_stat_id": 368662,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/57/conversions/105px-ML_icon_Hilda-avatar_webp.webp",
+    "name": "Hilda",
+    "tier": "D",
+    "points": "1122.79",
+    "tier_color": "#B87333",
+    "win_rate": "46.94",
+    "ban_rate": "1.23",
+    "pick_rate": "0.34",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 43,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 44,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 42,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 43,
+        "name": "Regen",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 36,
+    "_stat_id": 368628,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/12/conversions/105px-ML_icon_Aurora_2024-avatar_webp.webp",
+    "name": "Aurora",
+    "tier": "B",
+    "points": "1479.35",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.37",
+    "ban_rate": "0.14",
+    "pick_rate": "0.45",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 45,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 44,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 37,
+    "_stat_id": 368652,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/74/conversions/105px-ML_icon_Lapu-Lapu-avatar_webp.webp",
+    "name": "Lapu-Lapu",
+    "tier": "C",
+    "points": "1238.14",
+    "tier_color": "#5A5E63",
+    "win_rate": "47.71",
+    "ban_rate": "0.10",
+    "pick_rate": "0.46",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 46,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 45,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 38,
+    "_stat_id": 368622,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/117/conversions/105px-ML_icon_Vexana_2022-avatar_webp.webp",
+    "name": "Vexana",
+    "tier": "B",
+    "points": "1570.25",
+    "tier_color": "#9E9E9E",
+    "win_rate": "48.27",
+    "ban_rate": "0.50",
+    "pick_rate": "1.12",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 47,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 46,
+        "name": "Poke",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 39,
+    "_stat_id": 368666,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/103/conversions/105px-ML_icon_Roger-avatar_webp.webp",
+    "name": "Roger",
+    "tier": "D",
+    "points": "996.68",
+    "tier_color": "#B87333",
+    "win_rate": "46.46",
+    "ban_rate": "0.07",
+    "pick_rate": "0.30",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 48,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 49,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 47,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      },
+      {
+        "id": 48,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 40,
+    "_stat_id": 368634,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/69/conversions/105px-ML_icon_Karrie-avatar_webp.webp",
+    "name": "Karrie",
+    "tier": "B",
+    "points": "1422.86",
+    "tier_color": "#9E9E9E",
+    "win_rate": "48.20",
+    "ban_rate": "1.16",
+    "pick_rate": "0.67",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 50,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 49,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 41,
+    "_stat_id": 368680,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/44/conversions/105px-ML_icon_Gatotkaca-avatar_webp.webp",
+    "name": "Gatotkaca",
+    "tier": "D",
+    "points": "588.09",
+    "tier_color": "#B87333",
+    "win_rate": "43.59",
+    "ban_rate": "0.11",
+    "pick_rate": "0.33",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 51,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 52,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 50,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 51,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 42,
+    "_stat_id": 368627,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/54/conversions/105px-ML_icon_Harley-avatar_webp.webp",
+    "name": "Harley",
+    "tier": "B",
+    "points": "1496.69",
+    "tier_color": "#9E9E9E",
+    "win_rate": "48.94",
+    "ban_rate": "1.19",
+    "pick_rate": "0.57",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 53,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      },
+      {
+        "id": 54,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 52,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      },
+      {
+        "id": 53,
+        "name": "Poke",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 43,
+    "_stat_id": 368597,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1478/conversions/100_a65d1e2ced64fbfdfcefdcfba719b3fd-avatar_webp.webp",
+    "name": "Irithel",
+    "tier": "A",
+    "points": "1917.88",
+    "tier_color": "#E1B04B",
+    "win_rate": "52.32",
+    "ban_rate": "0.11",
+    "pick_rate": "0.47",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 55,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 54,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 44,
+    "_stat_id": 368667,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/48/conversions/105px-ML_icon_Grock-avatar_webp.webp",
+    "name": "Grock",
+    "tier": "D",
+    "points": "979.86",
+    "tier_color": "#B87333",
+    "win_rate": "46.16",
+    "ban_rate": "0.53",
+    "pick_rate": "0.33",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 56,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 57,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 55,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 56,
+        "name": "Initiator",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 45,
+    "_stat_id": 368575,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/8/conversions/105px-ML_icon_Argus_2021-avatar_webp.webp",
+    "name": "Argus",
+    "tier": "A",
+    "points": "2290.13",
+    "tier_color": "#E1B04B",
+    "win_rate": "54.25",
+    "ban_rate": "1.41",
+    "pick_rate": "0.59",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 58,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 57,
+        "name": "Charge",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 46,
+    "_stat_id": 368606,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/97/conversions/105px-ML_icon_Odette_2021-avatar_webp.webp",
+    "name": "Odette",
+    "tier": "A",
+    "points": "1787.95",
+    "tier_color": "#E1B04B",
+    "win_rate": "51.19",
+    "ban_rate": "0.31",
+    "pick_rate": "0.55",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 59,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 58,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 47,
+    "_stat_id": 368683,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/73/conversions/105px-ML_icon_Lancelot_2021-avatar_webp.webp",
+    "name": "Lancelot",
+    "tier": "D",
+    "points": "429.35",
+    "tier_color": "#B87333",
+    "win_rate": "42.11",
+    "ban_rate": "0.14",
+    "pick_rate": "0.49",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 60,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 59,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 48,
+    "_stat_id": 368571,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/32/conversions/105px-ML_icon_Diggie-avatar_webp.webp",
+    "name": "Diggie",
+    "tier": "S",
+    "points": "2366.05",
+    "tier_color": "#B03E3E",
+    "win_rate": "54.57",
+    "ban_rate": "5.72",
+    "pick_rate": "0.24",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 61,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 60,
+        "name": "Guard",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 49,
+    "_stat_id": 368668,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/58/conversions/105px-ML_icon_Hylos-avatar_webp.webp",
+    "name": "Hylos",
+    "tier": "D",
+    "points": "972.25",
+    "tier_color": "#B87333",
+    "win_rate": "46.23",
+    "ban_rate": "0.13",
+    "pick_rate": "0.32",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 62,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 61,
+        "name": "Guard",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 50,
+    "_stat_id": 368613,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/125/conversions/105px-ML_icon_Zhask-avatar_webp.webp",
+    "name": "Zhask",
+    "tier": "B",
+    "points": "1687.32",
+    "tier_color": "#9E9E9E",
+    "win_rate": "51.31",
+    "ban_rate": "0.10",
+    "pick_rate": "0.24",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 63,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 62,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 51,
+    "_stat_id": 368660,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/56/conversions/105px-ML_icon_Helcurt_2024-avatar_webp.webp",
+    "name": "Helcurt",
+    "tier": "D",
+    "points": "1141.85",
+    "tier_color": "#B87333",
+    "win_rate": "46.68",
+    "ban_rate": "3.13",
+    "pick_rate": "0.31",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 64,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 63,
+        "name": "Push",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 52,
+    "_stat_id": 368655,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/99/conversions/105px-ML_icon_Pharsa-avatar_webp.webp",
+    "name": "Pharsa",
+    "tier": "D",
+    "points": "1183.61",
+    "tier_color": "#B87333",
+    "win_rate": "47.74",
+    "ban_rate": "0.05",
+    "pick_rate": "0.30",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 65,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 64,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 53,
+    "_stat_id": 368602,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/77/conversions/105px-ML_icon_Lesley_2022-avatar_webp.webp",
+    "name": "Lesley",
+    "tier": "A",
+    "points": "1827.24",
+    "tier_color": "#E1B04B",
+    "win_rate": "48.31",
+    "ban_rate": "3.63",
+    "pick_rate": "1.51",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 66,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      },
+      {
+        "id": 67,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 65,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      },
+      {
+        "id": 66,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 54,
+    "_stat_id": 368677,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/61/conversions/105px-ML_icon_Jawhead-avatar_webp.webp",
+    "name": "Jawhead",
+    "tier": "D",
+    "points": "803.90",
+    "tier_color": "#B87333",
+    "win_rate": "45.43",
+    "ban_rate": "0.10",
+    "pick_rate": "0.18",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 68,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 67,
+        "name": "Charge",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 55,
+    "_stat_id": 368584,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/7/conversions/105px-ML_icon_Angela_2024_v2-avatar_webp.webp",
+    "name": "Angela",
+    "tier": "A",
+    "points": "2116.62",
+    "tier_color": "#E1B04B",
+    "win_rate": "48.12",
+    "ban_rate": "7.91",
+    "pick_rate": "1.97",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 69,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 68,
+        "name": "Guard",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 56,
+    "_stat_id": 368616,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/50/conversions/105px-ML_icon_Gusion_2022-avatar_webp.webp",
+    "name": "Gusion",
+    "tier": "B",
+    "points": "1647.27",
+    "tier_color": "#9E9E9E",
+    "win_rate": "47.94",
+    "ban_rate": "2.81",
+    "pick_rate": "1.24",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 70,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 69,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 57,
+    "_stat_id": 368580,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/116/conversions/105px-ML_icon_Valir-avatar_webp.webp",
+    "name": "Valir",
+    "tier": "A",
+    "points": "2150.89",
+    "tier_color": "#E1B04B",
+    "win_rate": "52.64",
+    "ban_rate": "1.32",
+    "pick_rate": "0.87",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 71,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 70,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 58,
+    "_stat_id": 368661,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/84/conversions/105px-ML_icon_Martis-avatar_webp.webp",
+    "name": "Martis",
+    "tier": "D",
+    "points": "1139.70",
+    "tier_color": "#B87333",
+    "win_rate": "47.17",
+    "ban_rate": "0.16",
+    "pick_rate": "0.40",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 72,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 71,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 59,
+    "_stat_id": 368644,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/113/conversions/105px-ML_icon_Uranus-avatar_webp.webp",
+    "name": "Uranus",
+    "tier": "C",
+    "points": "1370.18",
+    "tier_color": "#5A5E63",
+    "win_rate": "48.73",
+    "ban_rate": "0.21",
+    "pick_rate": "0.40",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 73,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 72,
+        "name": "Regen",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 60,
+    "_stat_id": 368594,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/51/conversions/105px-ML_icon_Hanabi_2022-avatar_webp.webp",
+    "name": "Hanabi",
+    "tier": "A",
+    "points": "1992.06",
+    "tier_color": "#E1B04B",
+    "win_rate": "49.60",
+    "ban_rate": "3.15",
+    "pick_rate": "1.49",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 74,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 73,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 61,
+    "_stat_id": 368671,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/25/conversions/105px-ML_icon_Chang%27e-avatar_webp.webp",
+    "name": "Chang'e",
+    "tier": "D",
+    "points": "940.55",
+    "tier_color": "#B87333",
+    "win_rate": "45.68",
+    "ban_rate": "0.10",
+    "pick_rate": "0.46",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 75,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 74,
+        "name": "Poke",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 62,
+    "_stat_id": 368564,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/67/conversions/105px-ML_icon_Kaja-avatar_webp.webp",
+    "name": "Kaja",
+    "tier": "S",
+    "points": "3182.73",
+    "tier_color": "#B03E3E",
+    "win_rate": "50.35",
+    "ban_rate": "39.29",
+    "pick_rate": "0.90",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 76,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 77,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 75,
+        "name": "Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 76,
+        "name": "Charge",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 63,
+    "_stat_id": 368593,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/106/conversions/105px-ML_icon_Selena-avatar_webp.webp",
+    "name": "Selena",
+    "tier": "A",
+    "points": "2001.78",
+    "tier_color": "#E1B04B",
+    "win_rate": "49.43",
+    "ban_rate": "3.32",
+    "pick_rate": "1.57",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 78,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      },
+      {
+        "id": 79,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 77,
+        "name": "Initiator",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 78,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 64,
+    "_stat_id": 368639,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/3/conversions/105px-ML_icon_Aldous-avatar_webp.webp",
+    "name": "Aldous",
+    "tier": "B",
+    "points": "1402.29",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.20",
+    "ban_rate": "0.28",
+    "pick_rate": "0.29",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 80,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 79,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 65,
+    "_stat_id": 368630,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/29/conversions/105px-ML_icon_Claude_2024-avatar_webp.webp",
+    "name": "Claude",
+    "tier": "B",
+    "points": "1450.76",
+    "tier_color": "#9E9E9E",
+    "win_rate": "47.74",
+    "ban_rate": "0.13",
+    "pick_rate": "1.04",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 81,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 80,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 66,
+    "_stat_id": 368648,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/114/conversions/105px-ML_icon_Vale-avatar_webp.webp",
+    "name": "Vale",
+    "tier": "C",
+    "points": "1327.64",
+    "tier_color": "#5A5E63",
+    "win_rate": "48.72",
+    "ban_rate": "0.06",
+    "pick_rate": "0.30",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 82,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 81,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 67,
+    "_stat_id": 368615,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/76/conversions/105px-ML_icon_Leomord_2022-avatar_webp.webp",
+    "name": "Leomord",
+    "tier": "B",
+    "points": "1649.59",
+    "tier_color": "#9E9E9E",
+    "win_rate": "50.58",
+    "ban_rate": "0.24",
+    "pick_rate": "0.42",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 83,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 82,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 68,
+    "_stat_id": 368641,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/81/conversions/105px-ML_icon_Lunox-avatar_webp.webp",
+    "name": "Lunox",
+    "tier": "B",
+    "points": "1398.98",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.08",
+    "ban_rate": "0.08",
+    "pick_rate": "0.35",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 84,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 83,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 69,
+    "_stat_id": 368585,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/52/conversions/105px-ML_icon_Hanzo-avatar_webp.webp",
+    "name": "Hanzo",
+    "tier": "A",
+    "points": "2112.87",
+    "tier_color": "#E1B04B",
+    "win_rate": "47.80",
+    "ban_rate": "23.31",
+    "pick_rate": "0.55",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 85,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 84,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 70,
+    "_stat_id": 368556,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/19/conversions/105px-ML_icon_Belerick-avatar_webp.webp",
+    "name": "Belerick",
+    "tier": "SS",
+    "points": "4499.79",
+    "tier_color": "#FFAE34FC",
+    "win_rate": "50.46",
+    "ban_rate": "68.20",
+    "pick_rate": "1.65",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 86,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 85,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 71,
+    "_stat_id": 368633,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/72/conversions/105px-ML_icon_Kimmy-avatar_webp.webp",
+    "name": "Kimmy",
+    "tier": "B",
+    "points": "1425.80",
+    "tier_color": "#9E9E9E",
+    "win_rate": "48.61",
+    "ban_rate": "0.16",
+    "pick_rate": "0.61",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 87,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      },
+      {
+        "id": 88,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 86,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 87,
+        "name": "Magic Damage",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 72,
+    "_stat_id": 368649,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1265/conversions/01K5C8MD56CQWHM39B1CK8Z8EA-avatar_webp.webp",
+    "name": "Thamuz",
+    "tier": "C",
+    "points": "1314.34",
+    "tier_color": "#5A5E63",
+    "win_rate": "48.22",
+    "ban_rate": "0.34",
+    "pick_rate": "0.44",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 89,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 88,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 73,
+    "_stat_id": 368654,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/53/conversions/105px-ML_icon_Harith-avatar_webp.webp",
+    "name": "Harith",
+    "tier": "D",
+    "points": "1193.34",
+    "tier_color": "#B87333",
+    "win_rate": "48.05",
+    "ban_rate": "0.05",
+    "pick_rate": "0.20",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 90,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 89,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 74,
+    "_stat_id": 368610,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/89/conversions/105px-ML_icon_Minsitthar_2023-avatar_webp.webp",
+    "name": "Minsitthar",
+    "tier": "B",
+    "points": "1716.19",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.45",
+    "ban_rate": "5.44",
+    "pick_rate": "0.55",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 91,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 90,
+        "name": "Initiator",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 75,
+    "_stat_id": 368573,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1476/conversions/100_99c0a77d0e01b06ad3f4351f8ef2869c-avatar_webp.webp",
+    "name": "Kadita",
+    "tier": "A",
+    "points": "2300.41",
+    "tier_color": "#E1B04B",
+    "win_rate": "52.11",
+    "ban_rate": "4.78",
+    "pick_rate": "1.16",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 92,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      },
+      {
+        "id": 93,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 91,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      },
+      {
+        "id": 92,
+        "name": "Charge",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 76,
+    "_stat_id": 368604,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1263/conversions/01K3BXG57Y6G0QZ6P8WFG0DHE5-avatar_webp.webp",
+    "name": "Faramis",
+    "tier": "A",
+    "points": "1806.39",
+    "tier_color": "#E1B04B",
+    "win_rate": "52.30",
+    "ban_rate": "0.37",
+    "pick_rate": "0.14",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 94,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 95,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 93,
+        "name": "Guard",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 94,
+        "name": "Charge",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 77,
+    "_stat_id": 368576,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1477/conversions/100_a81815e34246147b672d48209089da9c-avatar_webp.webp",
+    "name": "Badang",
+    "tier": "A",
+    "points": "2288.02",
+    "tier_color": "#E1B04B",
+    "win_rate": "49.44",
+    "ban_rate": "9.79",
+    "pick_rate": "1.72",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 96,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 95,
+        "name": "Charge",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 78,
+    "_stat_id": 368570,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/71/conversions/105px-ML_icon_Khufra-avatar_webp.webp",
+    "name": "Khufra",
+    "tier": "S",
+    "points": "2371.07",
+    "tier_color": "#B03E3E",
+    "win_rate": "54.49",
+    "ban_rate": "3.39",
+    "pick_rate": "0.52",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 97,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 96,
+        "name": "Initiator",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 79,
+    "_stat_id": 368663,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/47/conversions/105px-ML_icon_Granger_2024-avatar_webp.webp",
+    "name": "Granger",
+    "tier": "D",
+    "points": "1115.32",
+    "tier_color": "#B87333",
+    "win_rate": "44.47",
+    "ban_rate": "0.56",
+    "pick_rate": "1.40",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 98,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 97,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 80,
+    "_stat_id": 368579,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/49/conversions/105px-ML_icon_Guinevere-avatar_webp.webp",
+    "name": "Guinevere",
+    "tier": "A",
+    "points": "2167.50",
+    "tier_color": "#E1B04B",
+    "win_rate": "51.53",
+    "ban_rate": "3.54",
+    "pick_rate": "1.15",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 99,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 98,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 81,
+    "_stat_id": 368635,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/35/conversions/105px-ML_icon_Esmeralda-avatar_webp.webp",
+    "name": "Esmeralda",
+    "tier": "B",
+    "points": "1422.20",
+    "tier_color": "#9E9E9E",
+    "win_rate": "46.97",
+    "ban_rate": "2.09",
+    "pick_rate": "1.08",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 100,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      },
+      {
+        "id": 101,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 99,
+        "name": "Regen",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 100,
+        "name": "Mixed Damage",
+        "color": "oklch(0.656 0.241 354.308)"
+      }
+    ]
+  },
+  {
+    "hero_id": 82,
+    "_stat_id": 368631,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/110/conversions/105px-ML_icon_Terizla-avatar_webp.webp",
+    "name": "Terizla",
+    "tier": "B",
+    "points": "1446.72",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.43",
+    "ban_rate": "0.08",
+    "pick_rate": "0.34",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 102,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 101,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 83,
+    "_stat_id": 368646,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/119/conversions/105px-ML_icon_X.Borg_2023-avatar_webp.webp",
+    "name": "X.Borg",
+    "tier": "C",
+    "points": "1348.30",
+    "tier_color": "#5A5E63",
+    "win_rate": "48.13",
+    "ban_rate": "0.76",
+    "pick_rate": "0.53",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 103,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 102,
+        "name": "Regen",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 84,
+    "_stat_id": 368581,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/78/conversions/105px-ML_icon_Ling_2024-avatar_webp.webp",
+    "name": "Ling",
+    "tier": "A",
+    "points": "2140.12",
+    "tier_color": "#E1B04B",
+    "win_rate": "51.86",
+    "ban_rate": "1.42",
+    "pick_rate": "1.15",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 104,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 103,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 85,
+    "_stat_id": 368642,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1264/conversions/01K5C8F85T1KYF29E7XKTECZWX-avatar_webp.webp",
+    "name": "Dyrroth",
+    "tier": "B",
+    "points": "1377.98",
+    "tier_color": "#9E9E9E",
+    "win_rate": "47.76",
+    "ban_rate": "0.61",
+    "pick_rate": "0.78",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 105,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 104,
+        "name": "Charge",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 86,
+    "_stat_id": 368650,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/83/conversions/105px-ML_icon_Lylia-avatar_webp.webp",
+    "name": "Lylia",
+    "tier": "C",
+    "points": "1294.97",
+    "tier_color": "#5A5E63",
+    "win_rate": "47.91",
+    "ban_rate": "0.17",
+    "pick_rate": "0.53",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 106,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 105,
+        "name": "Push",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 87,
+    "_stat_id": 368673,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/17/conversions/105px-ML_icon_Baxia-avatar_webp.webp",
+    "name": "Baxia",
+    "tier": "D",
+    "points": "881.73",
+    "tier_color": "#B87333",
+    "win_rate": "46.28",
+    "ban_rate": "0.09",
+    "pick_rate": "0.05",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 107,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 106,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 88,
+    "_stat_id": 368555,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1473/conversions/100_4d79ba6ebb0a0f2bf542917f0b19d056-avatar_webp.webp",
+    "name": "Masha",
+    "tier": "SS",
+    "points": "4559.90",
+    "tier_color": "#FFAE34FC",
+    "win_rate": "58.65",
+    "ban_rate": "42.48",
+    "pick_rate": "1.03",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 108,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 109,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 107,
+        "name": "Push",
+        "color": "oklch(0.627 0.265 303.9)"
+      },
+      {
+        "id": 108,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 89,
+    "_stat_id": 368656,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/118/conversions/105px-ML_icon_Wanwan-avatar_webp.webp",
+    "name": "Wanwan",
+    "tier": "D",
+    "points": "1181.07",
+    "tier_color": "#B87333",
+    "win_rate": "48.11",
+    "ban_rate": "0.06",
+    "pick_rate": "0.14",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 110,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 109,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 90,
+    "_stat_id": 368632,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/107/conversions/105px-ML_icon_Silvanna-avatar_webp.webp",
+    "name": "Silvanna",
+    "tier": "B",
+    "points": "1427.64",
+    "tier_color": "#9E9E9E",
+    "win_rate": "48.91",
+    "ban_rate": "0.48",
+    "pick_rate": "0.46",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 111,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 110,
+        "name": "Initiator",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 91,
+    "_stat_id": 368607,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/24/conversions/105px-ML_icon_Cecilion-avatar_webp.webp",
+    "name": "Cecilion",
+    "tier": "A",
+    "points": "1784.75",
+    "tier_color": "#E1B04B",
+    "win_rate": "50.91",
+    "ban_rate": "0.07",
+    "pick_rate": "0.68",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 112,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 111,
+        "name": "Poke",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 92,
+    "_stat_id": 368562,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/23/conversions/105px-ML_icon_Carmilla-avatar_webp.webp",
+    "name": "Carmilla",
+    "tier": "S",
+    "points": "3350.59",
+    "tier_color": "#B03E3E",
+    "win_rate": "52.72",
+    "ban_rate": "24.77",
+    "pick_rate": "1.85",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 113,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 114,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 112,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 113,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 93,
+    "_stat_id": 368568,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/10/conversions/105px-ML_icon_Atlas-avatar_webp.webp",
+    "name": "Atlas",
+    "tier": "S",
+    "points": "2767.57",
+    "tier_color": "#B03E3E",
+    "win_rate": "50.40",
+    "ban_rate": "21.97",
+    "pick_rate": "1.45",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 115,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 114,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 94,
+    "_stat_id": 368601,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/101/conversions/105px-ML_icon_Popol_and_Kupa-avatar_webp.webp",
+    "name": "Popol and Kupa",
+    "tier": "A",
+    "points": "1829.21",
+    "tier_color": "#E1B04B",
+    "win_rate": "52.10",
+    "ban_rate": "0.13",
+    "pick_rate": "0.31",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 116,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 115,
+        "name": "Push",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 95,
+    "_stat_id": 368624,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/123/conversions/105px-ML_icon_Yu_Zhong_2024-avatar_webp.webp",
+    "name": "Yu Zhong",
+    "tier": "B",
+    "points": "1541.97",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.21",
+    "ban_rate": "0.25",
+    "pick_rate": "0.68",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 117,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 116,
+        "name": "Regen",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 96,
+    "_stat_id": 368664,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1481/conversions/100_26e03fd72532d11c7b32911b95b8d559-avatar_webp.webp",
+    "name": "Luo Yi",
+    "tier": "D",
+    "points": "1084.75",
+    "tier_color": "#B87333",
+    "win_rate": "47.28",
+    "ban_rate": "0.07",
+    "pick_rate": "0.21",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 118,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 117,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 97,
+    "_stat_id": 368600,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/20/conversions/105px-ML_icon_Benedetta-avatar_webp.webp",
+    "name": "Benedetta",
+    "tier": "A",
+    "points": "1830.17",
+    "tier_color": "#E1B04B",
+    "win_rate": "51.69",
+    "ban_rate": "0.24",
+    "pick_rate": "0.47",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 119,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      },
+      {
+        "id": 120,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 118,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      },
+      {
+        "id": 119,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 98,
+    "_stat_id": 368647,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/70/conversions/105px-ML_icon_Khaleed-avatar_webp.webp",
+    "name": "Khaleed",
+    "tier": "C",
+    "points": "1339.56",
+    "tier_color": "#5A5E63",
+    "win_rate": "49.14",
+    "ban_rate": "0.07",
+    "pick_rate": "0.16",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 121,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 120,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 99,
+    "_stat_id": 368572,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/16/conversions/105px-ML_icon_Barats-avatar_webp.webp",
+    "name": "Barats",
+    "tier": "S",
+    "points": "2363.46",
+    "tier_color": "#B03E3E",
+    "win_rate": "51.47",
+    "ban_rate": "9.37",
+    "pick_rate": "1.14",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 122,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 123,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 121,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 122,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 100,
+    "_stat_id": 368591,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1479/conversions/100_cbb309b63cdf838fce79bd9cb95d4ed7-avatar_webp.webp",
+    "name": "Brody",
+    "tier": "A",
+    "points": "2006.69",
+    "tier_color": "#E1B04B",
+    "win_rate": "49.79",
+    "ban_rate": "2.98",
+    "pick_rate": "1.47",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 124,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 123,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 101,
+    "_stat_id": 368598,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/124/conversions/105px-ML_icon_Yve_2024-avatar_webp.webp",
+    "name": "Yve",
+    "tier": "A",
+    "points": "1882.76",
+    "tier_color": "#E1B04B",
+    "win_rate": "53.05",
+    "ban_rate": "0.03",
+    "pick_rate": "0.08",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 125,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 124,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 102,
+    "_stat_id": 368674,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1117/conversions/01JSPZD5P6125Y14CXWNVT252V-avatar_webp.webp",
+    "name": "Mathilda",
+    "tier": "D",
+    "points": "857.08",
+    "tier_color": "#B87333",
+    "win_rate": "45.61",
+    "ban_rate": "0.35",
+    "pick_rate": "0.23",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 126,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 127,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 125,
+        "name": "Initiator",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 126,
+        "name": "Guard",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 103,
+    "_stat_id": 368559,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1475/conversions/100_5ab87805b9107b126a3bab64a8a199ad-avatar_webp.webp",
+    "name": "Paquito",
+    "tier": "SS",
+    "points": "4168.34",
+    "tier_color": "#FFAE34FC",
+    "win_rate": "49.84",
+    "ban_rate": "57.97",
+    "pick_rate": "2.00",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 128,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 129,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 127,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      },
+      {
+        "id": 128,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 104,
+    "_stat_id": 368561,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/45/conversions/105px-ML_icon_Gloo_2022-avatar_webp.webp",
+    "name": "Gloo",
+    "tier": "S",
+    "points": "3615.92",
+    "tier_color": "#B03E3E",
+    "win_rate": "51.94",
+    "ban_rate": "44.69",
+    "pick_rate": "0.92",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 130,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 129,
+        "name": "Regen",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 105,
+    "_stat_id": 368595,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/18/conversions/105px-ML_icon_Beatrix-avatar_webp.webp",
+    "name": "Beatrix",
+    "tier": "A",
+    "points": "1992.02",
+    "tier_color": "#E1B04B",
+    "win_rate": "51.42",
+    "ban_rate": "0.38",
+    "pick_rate": "1.02",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 131,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 130,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 106,
+    "_stat_id": 368651,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1116/conversions/01JSPZBNNF1NXRB8NBK8A1NCHK-avatar_webp.webp",
+    "name": "Phoveus",
+    "tier": "C",
+    "points": "1249.70",
+    "tier_color": "#5A5E63",
+    "win_rate": "48.22",
+    "ban_rate": "0.23",
+    "pick_rate": "0.27",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 132,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 131,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 107,
+    "_stat_id": 368612,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/94/conversions/105px-ML_icon_Natan-avatar_webp.webp",
+    "name": "Natan",
+    "tier": "B",
+    "points": "1695.17",
+    "tier_color": "#9E9E9E",
+    "win_rate": "51.02",
+    "ban_rate": "0.11",
+    "pick_rate": "0.38",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 133,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 132,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 108,
+    "_stat_id": 368560,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1457/conversions/01KQFP2JHX32XKFMHFVHWZCGV0-avatar_webp.webp",
+    "name": "Aulus",
+    "tier": "S",
+    "points": "3855.58",
+    "tier_color": "#B03E3E",
+    "win_rate": "59.35",
+    "ban_rate": "16.80",
+    "pick_rate": "1.34",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 134,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 133,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 109,
+    "_stat_id": 368619,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1/conversions/105px-ML_icon_Aamon-avatar_webp.webp",
+    "name": "Aamon",
+    "tier": "B",
+    "points": "1592.63",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.86",
+    "ban_rate": "0.80",
+    "pick_rate": "0.50",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 135,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 134,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 110,
+    "_stat_id": 368672,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/115/conversions/105px-ML_icon_Valentina-avatar_webp.webp",
+    "name": "Valentina",
+    "tier": "D",
+    "points": "906.03",
+    "tier_color": "#B87333",
+    "win_rate": "45.71",
+    "ban_rate": "0.31",
+    "pick_rate": "0.33",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 136,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 135,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 111,
+    "_stat_id": 368605,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/34/conversions/105px-ML_icon_Edith-avatar_webp.webp",
+    "name": "Edith",
+    "tier": "A",
+    "points": "1798.65",
+    "tier_color": "#E1B04B",
+    "win_rate": "51.76",
+    "ban_rate": "0.27",
+    "pick_rate": "0.35",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 137,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 138,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 136,
+        "name": "Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 137,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 112,
+    "_stat_id": 368565,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/40/conversions/ML_icon_Floryn-avatar_webp.webp",
+    "name": "Floryn",
+    "tier": "S",
+    "points": "3071.38",
+    "tier_color": "#B03E3E",
+    "win_rate": "53.64",
+    "ban_rate": "17.58",
+    "pick_rate": "1.41",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 139,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 138,
+        "name": "Poke",
+        "color": "oklch(0.623 0.214 259.815)"
+      },
+      {
+        "id": 162,
+        "name": "Guard",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 113,
+    "_stat_id": 368638,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/122/conversions/105px-ML_icon_Yin_2024-avatar_webp.webp",
+    "name": "Yin",
+    "tier": "B",
+    "points": "1402.48",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.25",
+    "ban_rate": "0.38",
+    "pick_rate": "0.26",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 140,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 141,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 139,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      },
+      {
+        "id": 140,
+        "name": "Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 114,
+    "_stat_id": 368640,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/87/conversions/105px-ML_icon_Melissa-avatar_webp.webp",
+    "name": "Melissa",
+    "tier": "B",
+    "points": "1400.71",
+    "tier_color": "#9E9E9E",
+    "win_rate": "48.19",
+    "ban_rate": "2.88",
+    "pick_rate": "0.44",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 142,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 141,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 115,
+    "_stat_id": 368608,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/120/conversions/ML_icon_Xavier-avatar_webp.webp",
+    "name": "Xavier",
+    "tier": "A",
+    "points": "1774.57",
+    "tier_color": "#E1B04B",
+    "win_rate": "50.86",
+    "ban_rate": "0.09",
+    "pick_rate": "0.67",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 143,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 142,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 116,
+    "_stat_id": 368621,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/64/conversions/105px-ML_icon_Julian_dd-avatar_webp.webp",
+    "name": "Julian",
+    "tier": "B",
+    "points": "1572.96",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.57",
+    "ban_rate": "0.34",
+    "pick_rate": "0.61",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 144,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 145,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 143,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      },
+      {
+        "id": 144,
+        "name": "Magic Damage",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 117,
+    "_stat_id": 368589,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/42/conversions/105px-ML_icon_Fredrinn-avatar_webp.webp",
+    "name": "Fredrinn",
+    "tier": "A",
+    "points": "2055.96",
+    "tier_color": "#E1B04B",
+    "win_rate": "52.08",
+    "ban_rate": "2.36",
+    "pick_rate": "0.73",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 146,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 147,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 145,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 146,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 118,
+    "_stat_id": 368623,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/63/conversions/105px-ML_icon_Joy-avatar_webp.webp",
+    "name": "Joy",
+    "tier": "B",
+    "points": "1543.66",
+    "tier_color": "#9E9E9E",
+    "win_rate": "50.33",
+    "ban_rate": "0.20",
+    "pick_rate": "0.23",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 148,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 147,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 119,
+    "_stat_id": 368583,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/96/conversions/105px-ML_icon_Novaria-avatar_webp.webp",
+    "name": "Novaria",
+    "tier": "A",
+    "points": "2119.05",
+    "tier_color": "#E1B04B",
+    "win_rate": "50.23",
+    "ban_rate": "2.92",
+    "pick_rate": "1.61",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 149,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 148,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 120,
+    "_stat_id": 368645,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/9/conversions/105px-ML_icon_Arlott-avatar_webp.webp",
+    "name": "Arlott",
+    "tier": "C",
+    "points": "1359.60",
+    "tier_color": "#5A5E63",
+    "win_rate": "48.48",
+    "ban_rate": "0.24",
+    "pick_rate": "0.47",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 150,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 151,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 149,
+        "name": "Charge",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 150,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 121,
+    "_stat_id": 368614,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/60/conversions/105px-ML_icon_Ixia-avatar_webp.webp",
+    "name": "Ixia",
+    "tier": "B",
+    "points": "1658.56",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.92",
+    "ban_rate": "0.50",
+    "pick_rate": "0.69",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 152,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 151,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  },
+  {
+    "hero_id": 122,
+    "_stat_id": 368599,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/95/conversions/105px-ML_icon_Nolan-avatar_webp.webp",
+    "name": "Nolan",
+    "tier": "A",
+    "points": "1875.37",
+    "tier_color": "#E1B04B",
+    "win_rate": "49.53",
+    "ban_rate": "2.97",
+    "pick_rate": "1.21",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 153,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 152,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      }
+    ]
+  },
+  {
+    "hero_id": 123,
+    "_stat_id": 368636,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/28/conversions/105px-ML_icon_Cici-avatar_webp.webp",
+    "name": "Cici",
+    "tier": "B",
+    "points": "1410.83",
+    "tier_color": "#9E9E9E",
+    "win_rate": "48.52",
+    "ban_rate": "0.61",
+    "pick_rate": "0.56",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 154,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 153,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 124,
+    "_stat_id": 368669,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/26/conversions/105px-ML_icon_Chip-avatar_webp.webp",
+    "name": "Chip",
+    "tier": "D",
+    "points": "971.49",
+    "tier_color": "#B87333",
+    "win_rate": "46.79",
+    "ban_rate": "0.31",
+    "pick_rate": "0.07",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 155,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 156,
+        "name": "Tank",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 154,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 155,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 125,
+    "_stat_id": 368626,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/126/conversions/105px-ML_icon_Zhuxin-avatar_webp.webp",
+    "name": "Zhuxin",
+    "tier": "B",
+    "points": "1502.49",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.92",
+    "ban_rate": "0.33",
+    "pick_rate": "0.27",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 157,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 156,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 157,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 126,
+    "_stat_id": 368609,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/109/conversions/105px-ML_icon_Suyou-avatar_webp.webp",
+    "name": "Suyou",
+    "tier": "B",
+    "points": "1716.20",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.19",
+    "ban_rate": "0.91",
+    "pick_rate": "1.11",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 158,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      },
+      {
+        "id": 159,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 158,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      },
+      {
+        "id": 159,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 127,
+    "_stat_id": 368557,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/80/conversions/105px-ML_icon_Lukas-avatar_webp.webp",
+    "name": "Lukas",
+    "tier": "SS",
+    "points": "4335.39",
+    "tier_color": "#FFAE34FC",
+    "win_rate": "53.37",
+    "ban_rate": "54.06",
+    "pick_rate": "1.41",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 160,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 160,
+        "name": "Regen",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 161,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 128,
+    "_stat_id": 368679,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1115/conversions/01JSPV1D7SCQG8T3EHVY2N68Y2-avatar_webp.webp",
+    "name": "Kalea",
+    "tier": "D",
+    "points": "614.67",
+    "tier_color": "#B87333",
+    "win_rate": "44.01",
+    "ban_rate": "0.43",
+    "pick_rate": "0.20",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 161,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      },
+      {
+        "id": 162,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 163,
+        "name": "Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 164,
+        "name": "Regen",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 129,
+    "_stat_id": 368578,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1123/conversions/01JY7ASKC46RHXPX68FBYHZG2C-avatar_webp.webp",
+    "name": "Zetian",
+    "tier": "A",
+    "points": "2199.30",
+    "tier_color": "#E1B04B",
+    "win_rate": "49.82",
+    "ban_rate": "2.85",
+    "pick_rate": "2.01",
+    "lanes": "Mid Lane",
+    "roles": [
+      {
+        "id": 163,
+        "name": "Mage",
+        "color": "oklch(0.685 0.169 237.323)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 165,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 166,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      }
+    ]
+  },
+  {
+    "hero_id": 131,
+    "_stat_id": 368563,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1268/conversions/01K5CA0PVENC0GCCXXRYJ1A0HS-avatar_webp.webp",
+    "name": "Obsidia",
+    "tier": "S",
+    "points": "3341.05",
+    "tier_color": "#B03E3E",
+    "win_rate": "53.39",
+    "ban_rate": "11.76",
+    "pick_rate": "2.85",
+    "lanes": "Gold Lane",
+    "roles": [
+      {
+        "id": 164,
+        "name": "Marksman",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 167,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      },
+      {
+        "id": 168,
+        "name": "Damage",
+        "color": "oklch(0.637 0.237 25.331)"
+      }
+    ]
+  },
+  {
+    "hero_id": 132,
+    "_stat_id": 368611,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1435/conversions/01KCXEQJHEK191YCMJP2GP323G-avatar_webp.webp",
+    "name": "Sora",
+    "tier": "B",
+    "points": "1696.23",
+    "tier_color": "#9E9E9E",
+    "win_rate": "49.48",
+    "ban_rate": "2.16",
+    "pick_rate": "0.81",
+    "lanes": "Exp Lane",
+    "roles": [
+      {
+        "id": 165,
+        "name": "Fighter",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 166,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 169,
+        "name": "Charge",
+        "color": "oklch(0.637 0.237 25.331)"
+      },
+      {
+        "id": 170,
+        "name": "Burst",
+        "color": "oklch(0.623 0.214 259.815)"
+      }
+    ]
+  },
+  {
+    "hero_id": 133,
+    "_stat_id": 368553,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1445/conversions/01KKEJ9XPK0XA1SPZ5H99PKNQ3-avatar_webp.webp",
+    "name": "Marcel",
+    "tier": "SS",
+    "points": "5201.36",
+    "tier_color": "#FFAE34FC",
+    "win_rate": "58.33",
+    "ban_rate": "68.04",
+    "pick_rate": "0.40",
+    "lanes": "Roam",
+    "roles": [
+      {
+        "id": 167,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 171,
+        "name": "Crowd Control",
+        "color": "oklch(0.705 0.213 47.604)"
+      },
+      {
+        "id": 172,
+        "name": "Support",
+        "color": "oklch(0.723 0.219 149.579)"
+      }
+    ]
+  },
+  {
+    "hero_id": 134,
+    "_stat_id": 368552,
+    "_cluster_id": 615,
+    "image": "https://back.mlbb.gg/storage/heroes/1471/conversions/01KVAVB4571NPFQKZ2Z9MZWMRC-avatar_webp.webp",
+    "name": "Hirara",
+    "tier": "SS",
+    "points": "5442.63",
+    "tier_color": "#FFAE34FC",
+    "win_rate": "53.97",
+    "ban_rate": "89.58",
+    "pick_rate": "0.71",
+    "lanes": "Jungle",
+    "roles": [
+      {
+        "id": 168,
+        "name": "Assassin",
+        "color": "oklch(0.667 0.295 322.15)"
+      }
+    ],
+    "specialties": [
+      {
+        "id": 173,
+        "name": "Chase",
+        "color": "oklch(0.627 0.265 303.9)"
+      },
+      {
+        "id": 174,
+        "name": "Finisher",
+        "color": "oklch(0.795 0.184 86.047)"
+      }
+    ]
+  }
+]
